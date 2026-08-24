@@ -5,23 +5,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "LangFlow by langflow-ai",
-          "description": "Langflow é um construtor de aplicações de low-code para aplicações de RAG e IA multiagente. É baseado em Python e compatível com qualquer modelo, API ou banco de dados.",
+          "title": "LangFlow",
+          "description": "by langflow-aiLangflow é um construtor de aplicações de low-code para aplicações de RAG e IA multiagente. É baseado em Python e compatível com qualquer modelo, API ou banco de dados.",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 599320067,
             "language": "Python",
-            "last_commit": "2026-08-23T04:48:30Z",
+            "last_commit": "2026-08-24T13:46:13Z",
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 153586
+            "stars": 153619
           }
         },
         {
           "node_type": "item",
-          "title": "Dracula Theme by zenorocha",
-          "description": "A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more",
+          "title": "Dracula Theme",
+          "description": "by zenorochaA dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-08-13T14:12:09Z",
             "owner": "dracula",
             "repo": "dracula-theme",
-            "stars": 23565
+            "stars": 23566
           }
         },
         {
           "node_type": "item",
-          "title": "DevHub by brunolemos",
-          "description": "GitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)",
+          "title": "DevHub",
+          "description": "by brunolemosGitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,13 +45,13 @@
             "last_commit": "2024-09-07T23:06:30Z",
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10122
+            "stars": 10123
           }
         },
         {
           "node_type": "item",
-          "title": "WWDC by insidegui",
-          "description": "The unofficial WWDC app for macOS",
+          "title": "WWDC",
+          "description": "by insideguiThe unofficial WWDC app for macOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "Operação Serenata de Amor by okfn-brasil",
-          "description": "Serenata de Amor is an open project using artificial intelligence for social control of public administration",
+          "title": "Operação Serenata de Amor",
+          "description": "by okfn-brasilSerenata de Amor is an open project using artificial intelligence for social control of public administration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "Marreta by manualdousuario",
-          "description": "A tool that removes access barriers and visual distractions",
+          "title": "Marreta",
+          "description": "by manualdousuarioA tool that removes access barriers and visual distractions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "Egua by eguatech",
-          "description": "A programming language in portuguese to help beginners to start",
+          "title": "Egua",
+          "description": "by eguatechA programming language in portuguese to help beginners to start",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "i-Educar by portabilis",
-          "description": "Open source software of education in Brasil",
+          "title": "i-Educar",
+          "description": "by portabilisOpen source software of education in Brasil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "pliim by zehfernandes",
-          "description": "Safely share your screen with one click",
+          "title": "pliim",
+          "description": "by zehfernandesSafely share your screen with one click",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "Refined Bitbucket by andremw",
-          "description": "Chrome and Firefox extension that improves Bitbucket's user experience",
+          "title": "Refined Bitbucket",
+          "description": "by andremwChrome and Firefox extension that improves Bitbucket's user experience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "FunnyAlgorithms by Otacilio Maia",
-          "description": "A repository with a bunch of funny algorithms, beginners friendly",
+          "title": "FunnyAlgorithms",
+          "description": "by Otacilio MaiaA repository with a bunch of funny algorithms, beginners friendly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "RastreioBot by GabrielRF",
-          "description": "This is a Telegram Bot that tracks packages from the Brazilian Mail Service",
+          "title": "RastreioBot",
+          "description": "by GabrielRFThis is a Telegram Bot that tracks packages from the Brazilian Mail Service",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "SpeakerFight by luanfonceca",
-          "description": "The Easier way to choose the best talks",
+          "title": "SpeakerFight",
+          "description": "by luanfoncecaThe Easier way to choose the best talks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "webBudget by arthurgregorio",
-          "description": "A free and open-source software to control your personal finances or of your small company",
+          "title": "webBudget",
+          "description": "by arthurgregorioA free and open-source software to control your personal finances or of your small company",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "anonydog by anonydog",
-          "description": "A bot to anonymize contributors",
+          "title": "anonydog",
+          "description": "by anonydogA bot to anonymize contributors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "awesome-go by Avelino",
-          "description": "A curated list of awesome Go frameworks, libraries and software",
+          "title": "awesome-go",
+          "description": "by AvelinoA curated list of awesome Go frameworks, libraries and software",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,28 +246,28 @@
             "last_commit": "2026-08-21T06:27:18Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182041
+            "stars": 182110
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-shadcn-ui by birobirobiro",
-          "description": "A curated list of awesome things related to shadcn/ui",
+          "title": "awesome-shadcn-ui",
+          "description": "by birobirobiroA curated list of awesome things related to shadcn/ui",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 753271457,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:50:34Z",
+            "last_commit": "2026-08-24T03:57:40Z",
             "owner": "birobirobiro",
             "repo": "awesome-shadcn-ui",
-            "stars": 20369
+            "stars": 20370
           }
         },
         {
           "node_type": "item",
-          "title": "magictools by ellisonleao",
-          "description": "A list of Game Development resources to make magic happen",
+          "title": "magictools",
+          "description": "by ellisonleaoA list of Game Development resources to make magic happen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,13 +276,13 @@
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17189
+            "stars": 17191
           }
         },
         {
           "node_type": "item",
-          "title": "frontend-challenges by felipefialho",
-          "description": "A lot of open-source's challenges of jobs to test your knowledge",
+          "title": "frontend-challenges",
+          "description": "by felipefialhoA lot of open-source's challenges of jobs to test your knowledge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,13 +291,13 @@
             "last_commit": "2024-05-14T17:38:08Z",
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15019
+            "stars": 15016
           }
         },
         {
           "node_type": "item",
-          "title": "backend-challenges by joviane",
-          "description": ", CollabCodeTechA public list of open-source challenges from jobs around the world",
+          "title": "backend-challenges",
+          "description": "by joviane, CollabCodeTechA public list of open-source challenges from jobs around the world",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,13 +306,13 @@
             "last_commit": "2026-02-04T00:02:22Z",
             "owner": "CollabCodeTech",
             "repo": "backend-challenges",
-            "stars": 9984
+            "stars": 9982
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-wpo by davidsonfellipe",
-          "description": "A curated list of Web Performance Optimization. Everyone can contribute here!",
+          "title": "awesome-wpo",
+          "description": "by davidsonfellipeA curated list of Web Performance Optimization. Everyone can contribute here!",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -321,13 +321,13 @@
             "last_commit": "2026-07-28T02:18:16Z",
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9048
+            "stars": 9049
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-mlops by kelvins",
-          "description": "A curated list of awesome MLOps tools",
+          "title": "awesome-mlops",
+          "description": "by kelvinsA curated list of awesome MLOps tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,13 +336,13 @@
             "last_commit": "2026-08-17T00:21:28Z",
             "owner": "kelvins",
             "repo": "awesome-mlops",
-            "stars": 5254
+            "stars": 5253
           }
         },
         {
           "node_type": "item",
-          "title": "remote-jobs-brazil by lerrua",
-          "description": "Companies with remote job on Brazil",
+          "title": "remote-jobs-brazil",
+          "description": "by lerruaCompanies with remote job on Brazil",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -351,13 +351,13 @@
             "last_commit": "2026-03-10T19:37:59Z",
             "owner": "lerrua",
             "repo": "remote-jobs-brazil",
-            "stars": 5204
+            "stars": 5203
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-svg by willianjusten",
-          "description": "A curated list of SVG",
+          "title": "awesome-svg",
+          "description": "by willianjustenA curated list of SVG",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,13 +366,13 @@
             "last_commit": "2026-07-16T16:17:42Z",
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4647
+            "stars": 4648
           }
         },
         {
           "node_type": "item",
-          "title": "4noobs by He4rtDevs",
-          "description": "List of repos with a Quick Start to a lot of programming languages, frameworks and tools for beginners",
+          "title": "4noobs",
+          "description": "by He4rtDevsList of repos with a Quick Start to a lot of programming languages, frameworks and tools for beginners",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,13 +381,13 @@
             "last_commit": "2026-07-12T18:35:47Z",
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4343
+            "stars": 4344
           }
         },
         {
           "node_type": "item",
-          "title": "Links-uteis by OfficialMarinho",
-          "description": "useful links for the development of programming and design projects",
+          "title": "Links-uteis",
+          "description": "by OfficialMarinhouseful links for the development of programming and design projects",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-a11y by Bruno Pulis",
-          "description": "A curate list about A11Y",
+          "title": "awesome-a11y",
+          "description": "by Bruno PulisA curate list about A11Y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -411,13 +411,13 @@
             "last_commit": "2026-08-03T22:10:04Z",
             "owner": "brunopulis",
             "repo": "awesome-a11y",
-            "stars": 1980
+            "stars": 1981
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-canvas by Raphael Amorim",
-          "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+          "title": "awesome-canvas",
+          "description": "by Raphael Amorim A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,13 +426,13 @@
             "last_commit": "2026-06-14T09:29:51Z",
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1858
+            "stars": 1859
           }
         },
         {
           "node_type": "item",
-          "title": "awesome-techleads by gabiduarte",
-          "description": "A curated list about Tech Lead contents in pt-br",
+          "title": "awesome-techleads",
+          "description": "by gabiduarteA curated list about Tech Lead contents in pt-br",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,13 +441,13 @@
             "last_commit": "2024-08-16T12:04:20Z",
             "owner": "gabiduarte",
             "repo": "awesome-techleads",
-            "stars": 1645
+            "stars": 1646
           }
         },
         {
           "node_type": "item",
-          "title": "Municípios Brasileiros by kelvins",
-          "description": "List os brazilian cities",
+          "title": "Municípios Brasileiros",
+          "description": "by kelvinsList os brazilian cities",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "game-datasets by leomaurodesenv",
-          "description": "A curated list of awesome game datasets, and tools to artificial intelligence in games",
+          "title": "game-datasets",
+          "description": "by leomaurodesenvA curated list of awesome game datasets, and tools to artificial intelligence in games",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "Web Performance Research by TK",
-          "description": "Research on Web Performance",
+          "title": "Web Performance Research",
+          "description": "by TKResearch on Web Performance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "Functional Programming Learning Path by TK",
-          "description": "A Learning Path for Functional Programming",
+          "title": "Functional Programming Learning Path",
+          "description": "by TKA Learning Path for Functional Programming",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,8 +506,8 @@
         },
         {
           "node_type": "item",
-          "title": "Programming Language Research by TK",
-          "description": "Research on programming languages, compilers, interpreters",
+          "title": "Programming Language Research",
+          "description": "by TKResearch on programming languages, compilers, interpreters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,8 +521,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-seo by Teles",
-          "description": "A curated list of SEO links",
+          "title": "awesome-seo",
+          "description": "by TelesA curated list of SEO links",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome hacktoberfest by Otacilio Maia",
-          "description": "A curated list of awesome Hacktoberfest repositories",
+          "title": "Awesome hacktoberfest",
+          "description": "by Otacilio MaiaA curated list of awesome Hacktoberfest repositories",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-brazilian-devblogs by Mitrut",
-          "description": "An awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR",
+          "title": "awesome-brazilian-devblogs",
+          "description": "by MitrutAn awesome list list of development-centered blogs made by Brazilian devs that write in PT-BR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,8 +566,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-csirt by Spacial",
-          "description": "Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities",
+          "title": "awesome-csirt",
+          "description": "by Spacial Awesome-CSIRT is a curated list of links and resources in security and csirt daily activities",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,8 +581,8 @@
         },
         {
           "node_type": "item",
-          "title": "women-teaching-tech by compiladoras",
-          "description": "List of channels and courses on technology made by women",
+          "title": "women-teaching-tech",
+          "description": "by compiladorasList of channels and courses on technology made by women",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -596,14 +596,14 @@
         },
         {
           "node_type": "item",
-          "title": "Bancos Brasileiros by guibranco",
-          "description": "A curated list of brazilian banks",
+          "title": "Bancos Brasileiros",
+          "description": "by guibrancoA curated list of brazilian banks",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 108443355,
             "language": "Python",
-            "last_commit": "2026-08-23T12:40:15Z",
+            "last_commit": "2026-08-24T12:50:35Z",
             "owner": "guibranco",
             "repo": "BancosBrasileiros",
             "stars": 541
@@ -611,8 +611,8 @@
         },
         {
           "node_type": "item",
-          "title": "Awesome ideas by Teles",
-          "description": "A free list of software ideas, all written in portuguese",
+          "title": "Awesome ideas",
+          "description": "by TelesA free list of software ideas, all written in portuguese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -621,13 +621,13 @@
             "last_commit": "2025-02-04T11:58:34Z",
             "owner": "teles",
             "repo": "awesome-ideas",
-            "stars": 439
+            "stars": 440
           }
         },
         {
           "node_type": "item",
-          "title": "cypress-docs-pt-br by pedrohyvo",
-          "description": "Tradução da documentação oficial do framework Cypress.io",
+          "title": "cypress-docs-pt-br",
+          "description": "by pedrohyvoTradução da documentação oficial do framework Cypress.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -641,8 +641,8 @@
         },
         {
           "node_type": "item",
-          "title": "Frontend Infrastructure by TK",
-          "description": "Research on Frontend Infrastructure",
+          "title": "Frontend Infrastructure",
+          "description": "by TKResearch on Frontend Infrastructure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -656,8 +656,8 @@
         },
         {
           "node_type": "item",
-          "title": "modelo de contrato by apsantos-dev",
-          "description": "Assist in the creation of a document to formalize the provision of some type of service.",
+          "title": "modelo de contrato",
+          "description": "by apsantos-devAssist in the creation of a document to formalize the provision of some type of service.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,8 +671,8 @@
         },
         {
           "node_type": "item",
-          "title": "Mulheres na Tecnologia by anatechdev",
-          "description": "Reference content produced by inspiring women and technology communities.",
+          "title": "Mulheres na Tecnologia",
+          "description": "by anatechdevReference content produced by inspiring women and technology communities.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -692,8 +692,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "ffmpeg-libav-tutorial by leandromoreira",
-          "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more",
+          "title": "ffmpeg-libav-tutorial",
+          "description": "by leandromoreiraFFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -702,19 +702,19 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11034
+            "stars": 11036
           }
         },
         {
           "node_type": "item",
-          "title": "Lwan by lpereira",
-          "description": "High performance HTTP server",
+          "title": "Lwan",
+          "description": "by lpereiraHigh performance HTTP server",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 3287591,
             "language": "C",
-            "last_commit": "2026-08-23T15:42:08Z",
+            "last_commit": "2026-08-24T13:25:49Z",
             "owner": "lpereira",
             "repo": "lwan",
             "stars": 6034
@@ -722,8 +722,8 @@
         },
         {
           "node_type": "item",
-          "title": "htop by hishamhm",
-          "description": "Interactive process viewer",
+          "title": "htop",
+          "description": "by hishamhmInteractive process viewer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -737,8 +737,8 @@
         },
         {
           "node_type": "item",
-          "title": "HardInfo by lpereira",
-          "description": "System profiler and benchmarking tool",
+          "title": "HardInfo",
+          "description": "by lpereiraSystem profiler and benchmarking tool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -752,8 +752,8 @@
         },
         {
           "node_type": "item",
-          "title": "Balde by rafaelmartins",
-          "description": "A fast, simple, and memory efficient microframework written in C. It can run on any web server that supports CGI and/or FastCGI.",
+          "title": "Balde",
+          "description": "by rafaelmartinsA fast, simple, and memory efficient microframework written in C. It can run on any web server that supports CGI and/or FastCGI.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -767,8 +767,8 @@
         },
         {
           "node_type": "item",
-          "title": "Binn by kroggen",
-          "description": "Binary serialization",
+          "title": "Binn",
+          "description": "by kroggenBinary serialization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,8 +788,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "EquinoxProject by EduardoPires",
-          "description": "Implement the most common used technologies",
+          "title": "EquinoxProject",
+          "description": "by EduardoPiresImplement the most common used technologies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,13 +798,13 @@
             "last_commit": "2026-04-14T23:33:37Z",
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6779
+            "stars": 6780
           }
         },
         {
           "node_type": "item",
-          "title": "NLua by viniciusjarina",
-          "description": "Bridge between Lua and the .NET.",
+          "title": "NLua",
+          "description": "by viniciusjarinaBridge between Lua and the .NET.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -813,13 +813,13 @@
             "last_commit": "2026-05-01T20:37:43Z",
             "owner": "NLua",
             "repo": "NLua",
-            "stars": 2242
+            "stars": 2243
           }
         },
         {
           "node_type": "item",
-          "title": "FluentValidator byandrebaltieri",
-          "description": "A fluent way to use Notification Pattern with your entities",
+          "title": "FluentValidator",
+          "description": "byandrebaltieriA fluent way to use Notification Pattern with your entities",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -839,8 +839,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "matplotplusplus by Avatar Alan de Freitas",
-          "description": "Matplot++: A C++ Graphics Library for Data Visualization",
+          "title": "matplotplusplus",
+          "description": "by Avatar Alan de FreitasMatplot++: A C++ Graphics Library for Data Visualization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -849,13 +849,13 @@
             "last_commit": "2026-04-02T14:07:46Z",
             "owner": "alandefreitas",
             "repo": "matplotplusplus",
-            "stars": 4920
+            "stars": 4921
           }
         },
         {
           "node_type": "item",
-          "title": "pgModeler by Raphael Araújo e Silva",
-          "description": "PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL",
+          "title": "pgModeler",
+          "description": "by Raphael Araújo e SilvaPostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -864,13 +864,13 @@
             "last_commit": "2026-05-22T19:16:44Z",
             "owner": "nullptrlabs",
             "repo": "pgmodeler",
-            "stars": 3586
+            "stars": 3585
           }
         },
         {
           "node_type": "item",
-          "title": "bgslibrary by Andrews Cordolino Sobral",
-          "description": "A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT",
+          "title": "bgslibrary",
+          "description": "by Andrews Cordolino SobralA C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -884,8 +884,8 @@
         },
         {
           "node_type": "item",
-          "title": "cvui by Fernando Bevilacqua",
-          "description": "A (very) simple UI lib built on top of OpenCV drawing primitives",
+          "title": "cvui",
+          "description": "by Fernando BevilacquaA (very) simple UI lib built on top of OpenCV drawing primitives",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -899,8 +899,8 @@
         },
         {
           "node_type": "item",
-          "title": "material-de-aprendizado by cppbrasil",
-          "description": "Material for C++, videos, tutorials, examples, books and etc.",
+          "title": "material-de-aprendizado",
+          "description": "by cppbrasilMaterial for C++, videos, tutorials, examples, books and etc.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -914,8 +914,8 @@
         },
         {
           "node_type": "item",
-          "title": "QHot by Patrick José Pereira",
-          "description": "A hot reload for QML files.",
+          "title": "QHot",
+          "description": "by Patrick José PereiraA hot reload for QML files.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,8 +929,8 @@
         },
         {
           "node_type": "item",
-          "title": "Brasilino by Otacilio Maia",
-          "description": ", Thiago Augusto, Erick SimõesA library that allows programming in Arduino using commands in PT-BR",
+          "title": "Brasilino",
+          "description": "by Otacilio Maia, Thiago Augusto, Erick SimõesA library that allows programming in Arduino using commands in PT-BR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,8 +950,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Milligram by cjpatoilo",
-          "description": "A minimalist CSS framework",
+          "title": "Milligram",
+          "description": "by cjpatoiloA minimalist CSS framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -965,8 +965,8 @@
         },
         {
           "node_type": "item",
-          "title": "balloon.css by kazzkiq",
-          "description": "Simple tooltips made of pure CSS",
+          "title": "balloon.css",
+          "description": "by kazzkiqSimple tooltips made of pure CSS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -980,8 +980,8 @@
         },
         {
           "node_type": "item",
-          "title": "CSS Loader by raphaelfabeni",
-          "description": "Simple loaders for your web applications using only one div and pure CSS",
+          "title": "CSS Loader",
+          "description": "by raphaelfabeniSimple loaders for your web applications using only one div and pure CSS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,8 +995,8 @@
         },
         {
           "node_type": "item",
-          "title": "CSS Components ny felipefialho",
-          "description": "Using the power of CSS and without Javascript",
+          "title": "CSS Components",
+          "description": "ny felipefialhoUsing the power of CSS and without Javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,8 +1010,8 @@
         },
         {
           "node_type": "item",
-          "title": "luxacss by luxonauta",
-          "description": "The minimalist CSS library",
+          "title": "luxacss",
+          "description": "by luxonautaThe minimalist CSS library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1025,8 +1025,8 @@
         },
         {
           "node_type": "item",
-          "title": "Banana CSS by afonsopacifer",
-          "description": "The brazilian CSS preprocessor writen in NodeJS",
+          "title": "Banana CSS",
+          "description": "by afonsopaciferThe brazilian CSS preprocessor writen in NodeJS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1040,8 +1040,8 @@
         },
         {
           "node_type": "item",
-          "title": "css2wind by LukeberryPi",
-          "description": "A wonderful game that translates the CSS property to its Tailwind CSS equivalent",
+          "title": "css2wind",
+          "description": "by LukeberryPiA wonderful game that translates the CSS property to its Tailwind CSS equivalent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1061,8 +1061,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "clojure-lsp by Eric Dallo",
-          "description": "Clojure & ClojureScript Language Server (LSP) implementation",
+          "title": "clojure-lsp",
+          "description": "by Eric DalloClojure & ClojureScript Language Server (LSP) implementation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1071,13 +1071,13 @@
             "last_commit": "2026-08-20T19:41:51Z",
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
-            "stars": 1321
+            "stars": 1322
           }
         },
         {
           "node_type": "item",
-          "title": "ECA by Eric Dallo",
-          "description": "A free and open source editor-agnostic AI pair programming tool, inspired by the LSP protocol",
+          "title": "ECA",
+          "description": "by Eric DalloA free and open source editor-agnostic AI pair programming tool, inspired by the LSP protocol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1086,13 +1086,13 @@
             "last_commit": "2026-08-20T12:55:15Z",
             "owner": "editor-code-assistant",
             "repo": "eca",
-            "stars": 971
+            "stars": 972
           }
         },
         {
           "node_type": "item",
-          "title": "Pathom by Wilker Lúcio",
-          "description": "A Clojure library designed to help you write Clojure(script) graph query processing parsers for the query notation used by EQL",
+          "title": "Pathom",
+          "description": "by Wilker Lúcio A Clojure library designed to help you write Clojure(script) graph query processing parsers for the query notation used by EQL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1106,8 +1106,8 @@
         },
         {
           "node_type": "item",
-          "title": "workspaces by Nubank",
-          "description": "Live development environment for Clojurescript",
+          "title": "workspaces",
+          "description": "by NubankLive development environment for Clojurescript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,8 +1121,8 @@
         },
         {
           "node_type": "item",
-          "title": "state-flow by Nubank",
-          "description": "Integration testing framework using a state monad in the backend for building and composing flows",
+          "title": "state-flow",
+          "description": "by NubankIntegration testing framework using a state monad in the backend for building and composing flows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1136,8 +1136,8 @@
         },
         {
           "node_type": "item",
-          "title": "Chlorine by Maurício Szabo",
-          "description": "Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results",
+          "title": "Chlorine",
+          "description": "by Maurício Szabo Socket REPL and nREPL plug-in for the Atom editor, supporting interactive coding and custom visualization of results",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1157,8 +1157,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Flame engine by luanpotter",
-          "description": "Game engine 2d pra Flutter",
+          "title": "Flame engine",
+          "description": "by luanpotterGame engine 2d pra Flutter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1167,13 +1167,13 @@
             "last_commit": "2026-08-20T13:27:01Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10729
+            "stars": 10731
           }
         },
         {
           "node_type": "item",
-          "title": "Photo view by renancaraujo",
-          "description": "Widget pra galeria de imagens",
+          "title": "Photo view",
+          "description": "by renancaraujoWidget pra galeria de imagens",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1187,8 +1187,8 @@
         },
         {
           "node_type": "item",
-          "title": "Flutter para iniciantes by rubensdemelo",
-          "description": "Book about Flutter",
+          "title": "Flutter para iniciantes",
+          "description": "by rubensdemeloBook about Flutter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1208,8 +1208,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Horse by Hashload",
-          "description": "Horse is an Express inspired web framework for Delphi",
+          "title": "Horse",
+          "description": "by HashloadHorse is an Express inspired web framework for Delphi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1223,8 +1223,8 @@
         },
         {
           "node_type": "item",
-          "title": "DataSet-Serialize by Vinicius Sanchez",
-          "description": ", Mateus VicenteSet of features to make working with JSON and DataSet simple",
+          "title": "DataSet-Serialize",
+          "description": "by Vinicius Sanchez, Mateus VicenteSet of features to make working with JSON and DataSet simple",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,8 +1238,8 @@
         },
         {
           "node_type": "item",
-          "title": "Boss by Hashload",
-          "description": "Dependency Manager for Delphi",
+          "title": "Boss",
+          "description": "by HashloadDependency Manager for Delphi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1259,23 +1259,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Elixir Programming Language by josevalim",
-          "description": "Elixir language, created by a Brazilian, José Valim",
+          "title": "Elixir Programming Language",
+          "description": "by josevalimElixir language, created by a Brazilian, José Valim",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1234714,
             "language": "Elixir",
-            "last_commit": "2026-08-23T17:22:45Z",
+            "last_commit": "2026-08-24T14:08:25Z",
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26605
+            "stars": 26607
           }
         },
         {
           "node_type": "item",
-          "title": "Floki by philss",
-          "description": "Floki is a simple HTML parser that enables search for nodes using CSS selectors",
+          "title": "Floki",
+          "description": "by philssFloki is a simple HTML parser that enables search for nodes using CSS selectors",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,29 +1295,29 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Task by andreynering",
-          "description": "Task is a task runner / build tool, alternative to Make",
+          "title": "Task",
+          "description": "by andreyneringTask is a task runner / build tool, alternative to Make",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-23T10:24:59Z",
+            "last_commit": "2026-08-24T00:59:32Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 16030
+            "stars": 16033
           }
         },
         {
           "node_type": "item",
-          "title": "goreleaser by caarlos0",
-          "description": "Deliver Go binaries as fast and easily as possible",
+          "title": "goreleaser",
+          "description": "by caarlos0Deliver Go binaries as fast and easily as possible",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 77071454,
             "language": "Go",
-            "last_commit": "2026-08-23T17:04:23Z",
+            "last_commit": "2026-08-24T06:20:36Z",
             "owner": "goreleaser",
             "repo": "goreleaser",
             "stars": 15994
@@ -1325,8 +1325,8 @@
         },
         {
           "node_type": "item",
-          "title": "Gitql by filhodanuvem",
-          "description": "A git query language",
+          "title": "Gitql",
+          "description": "by filhodanuvemA git query language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1335,13 +1335,13 @@
             "last_commit": "2024-10-14T14:32:41Z",
             "owner": "filhodanuvem",
             "repo": "gitql",
-            "stars": 6295
+            "stars": 6294
           }
         },
         {
           "node_type": "item",
-          "title": "tsuru by tsuru",
-          "description": "Open source, extensible and Docker-based Platform as a Service (PaaS)",
+          "title": "tsuru",
+          "description": "by tsuruOpen source, extensible and Docker-based Platform as a Service (PaaS)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,8 +1355,8 @@
         },
         {
           "node_type": "item",
-          "title": "pREST by Avelino",
-          "description": "(PostgreSQL REST), simplify and accelerate development, instant, realtime high-performance on any Postgres application, existing or new",
+          "title": "pREST",
+          "description": "by Avelino(PostgreSQL REST), simplify and accelerate development, instant, realtime high-performance on any Postgres application, existing or new",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1370,8 +1370,8 @@
         },
         {
           "node_type": "item",
-          "title": "Pitaya by TFG Co",
-          "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+          "title": "Pitaya",
+          "description": "by TFG CoScalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1380,19 +1380,19 @@
             "last_commit": "2026-07-22T20:40:01Z",
             "owner": "topfreegames",
             "repo": "pitaya",
-            "stars": 2825
+            "stars": 2824
           }
         },
         {
           "node_type": "item",
-          "title": "go-dockerclient by Francisco Souza",
-          "description": "Go client for the Docker Engine API",
+          "title": "go-dockerclient",
+          "description": "by Francisco SouzaGo client for the Docker Engine API",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 9998516,
             "language": "Go",
-            "last_commit": "2026-08-22T04:16:49Z",
+            "last_commit": "2026-08-24T04:05:23Z",
             "owner": "fsouza",
             "repo": "go-dockerclient",
             "stars": 2244
@@ -1400,14 +1400,14 @@
         },
         {
           "node_type": "item",
-          "title": "ShellHub by gustavosbarreto",
-          "description": "ShellHub enables teams to easily access any Linux device behind firewall and NAT",
+          "title": "ShellHub",
+          "description": "by gustavosbarretoShellHub enables teams to easily access any Linux device behind firewall and NAT",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 187078631,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T06:20:09Z",
+            "last_commit": "2026-08-24T11:56:23Z",
             "owner": "shellhub-io",
             "repo": "shellhub",
             "stars": 2061
@@ -1415,8 +1415,8 @@
         },
         {
           "node_type": "item",
-          "title": "GoCity by rodrigo-brito",
-          "description": "Code City metaphor for visualizing Go source code in 3D",
+          "title": "GoCity",
+          "description": "by rodrigo-britoCode City metaphor for visualizing Go source code in 3D",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1430,8 +1430,8 @@
         },
         {
           "node_type": "item",
-          "title": "Minha Receita by cuducos",
-          "description": "Sua API web para consulta de informações do CNPJ da Receita Federal",
+          "title": "Minha Receita",
+          "description": "by cuducosSua API web para consulta de informações do CNPJ da Receita Federal",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1445,8 +1445,8 @@
         },
         {
           "node_type": "item",
-          "title": "check by niemeyer",
-          "description": "Rich testing for the Go language",
+          "title": "check",
+          "description": "by niemeyerRich testing for the Go language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1460,8 +1460,8 @@
         },
         {
           "node_type": "item",
-          "title": "teresa by luizalabs",
-          "description": "Open source tool to deploy apps to Kubernetes clusters",
+          "title": "teresa",
+          "description": "by luizalabsOpen source tool to deploy apps to Kubernetes clusters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1475,8 +1475,8 @@
         },
         {
           "node_type": "item",
-          "title": "Learn Go with tests by Lauren Ferreira",
-          "description": "Learn Go with test-driven development",
+          "title": "Learn Go with tests",
+          "description": "by Lauren FerreiraLearn Go with test-driven development",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1485,13 +1485,13 @@
             "last_commit": "2024-01-25T09:31:50Z",
             "owner": "larien",
             "repo": "aprenda-go-com-testes",
-            "stars": 505
+            "stars": 506
           }
         },
         {
           "node_type": "item",
-          "title": "gofn by avelino",
-          "description": "Function process via docker provider (serverless minimalist)",
+          "title": "gofn",
+          "description": "by avelinoFunction process via docker provider (serverless minimalist)",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1511,8 +1511,50 @@
       "items": [
         {
           "node_type": "item",
-          "title": "33-js-concepts by leonardomso",
-          "description": "33 concepts every JavaScript developer should know",
+          "title": "Kind",
+          "description": "by HigherOrderCOA modern proof language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140790634,
+            "language": "Haskell",
+            "last_commit": "2025-01-22T16:54:12Z",
+            "owner": "HigherOrderCO",
+            "repo": "Kind",
+            "stars": 3767
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BuildCLI",
+          "description": "by wheslleyrimarBuildCLI is a command-line interface (CLI) tool for managing and automating common tasks in Java project development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 878743356,
+            "language": "Java",
+            "last_commit": "2026-03-27T23:16:49Z",
+            "owner": "BuildCLI",
+            "repo": "BuildCLI",
+            "stars": 165
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "33-js-concepts",
+          "description": "by leonardomso33 concepts every JavaScript developer should know",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1521,28 +1563,28 @@
             "last_commit": "2026-08-02T14:51:44Z",
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66514
+            "stars": 66516
           }
         },
         {
           "node_type": "item",
-          "title": "Rocket.Chat by RocketChat",
-          "description": "The ultimate Free Open Source Solution for team communications",
+          "title": "Rocket.Chat",
+          "description": "by RocketChatThe ultimate Free Open Source Solution for team communications",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 35866694,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:26:21Z",
+            "last_commit": "2026-08-24T13:48:33Z",
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46020
+            "stars": 46025
           }
         },
         {
           "node_type": "item",
-          "title": "clipboard.js by zenorocha",
-          "description": "Modern copy to clipboard. No Flash. Just 3kb gzipped",
+          "title": "clipboard.js",
+          "description": "by zenorochaModern copy to clipboard. No Flash. Just 3kb gzipped",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1556,8 +1598,8 @@
         },
         {
           "node_type": "item",
-          "title": "Docz by pedronauck",
-          "description": "Docz makes it easy to write and publish beautiful interactive documentation for your code",
+          "title": "Docz",
+          "description": "by pedronauckDocz makes it easy to write and publish beautiful interactive documentation for your code",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1566,13 +1608,13 @@
             "last_commit": "2025-11-21T04:28:57Z",
             "owner": "pedronauck",
             "repo": "docz",
-            "stars": 23583
+            "stars": 23582
           }
         },
         {
           "node_type": "item",
-          "title": "clappr by clappr",
-          "description": "An extensible media player for the web",
+          "title": "clappr",
+          "description": "by clapprAn extensible media player for the web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1586,8 +1628,8 @@
         },
         {
           "node_type": "item",
-          "title": "javascript-datastructures-algorithms by loiane",
-          "description": "collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book",
+          "title": "javascript-datastructures-algorithms",
+          "description": "by loianecollection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1601,8 +1643,8 @@
         },
         {
           "node_type": "item",
-          "title": "Unform by Rocketseat",
-          "description": "Easy peasy highly scalable ReactJS & React Native forms!",
+          "title": "Unform",
+          "description": "by RocketseatEasy peasy highly scalable ReactJS & React Native forms!",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1616,8 +1658,8 @@
         },
         {
           "node_type": "item",
-          "title": "React95 by ggdaltoso",
-          "description": "A React components library with Win95 UI",
+          "title": "React95",
+          "description": "by ggdaltosoA React components library with Win95 UI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1626,13 +1668,13 @@
             "last_commit": "2026-07-30T08:44:07Z",
             "owner": "React95",
             "repo": "React95",
-            "stars": 3811
+            "stars": 3812
           }
         },
         {
           "node_type": "item",
-          "title": "zuck.js by ramon82",
-          "description": "A javascript library that lets you add stories EVERYWHERE",
+          "title": "zuck.js",
+          "description": "by ramon82A javascript library that lets you add stories EVERYWHERE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,8 +1688,8 @@
         },
         {
           "node_type": "item",
-          "title": "Glorious Demo by Rafael Camargo",
-          "description": "The easiest way of creating animations to show your code in action",
+          "title": "Glorious Demo",
+          "description": "by Rafael CamargoThe easiest way of creating animations to show your code in action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1661,8 +1703,8 @@
         },
         {
           "node_type": "item",
-          "title": "Node Cron by Lucas Merencia",
-          "description": "Tiny task scheduler in pure JavaScript for node.js based on GNU crontab.",
+          "title": "Node Cron",
+          "description": "by Lucas MerenciaTiny task scheduler in pure JavaScript for node.js based on GNU crontab.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1676,8 +1718,8 @@
         },
         {
           "node_type": "item",
-          "title": "fast-memoize.js by caiogondim",
-          "description": "Fastest possible memoization library",
+          "title": "fast-memoize.js",
+          "description": "by caiogondimFastest possible memoization library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1691,8 +1733,8 @@
         },
         {
           "node_type": "item",
-          "title": "sharer.js by ellisonleao",
-          "description": "Create your own social share buttons with no extra dependencies",
+          "title": "sharer.js",
+          "description": "by ellisonleaoCreate your own social share buttons with no extra dependencies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1706,8 +1748,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-preprocess by kaisermann",
-          "description": "A Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.",
+          "title": "svelte-preprocess",
+          "description": "by kaisermannA Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, CoffeeScript, TypeScript, Pug and much more.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1721,8 +1763,8 @@
         },
         {
           "node_type": "item",
-          "title": "brazilian-utils by hyanmandian",
-          "description": "Utils library for Brazilian-specific businesses",
+          "title": "brazilian-utils",
+          "description": "by hyanmandianUtils library for Brazilian-specific businesses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1736,8 +1778,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-i18n by kaisermann",
-          "description": "Internationalization for Svelte.",
+          "title": "svelte-i18n",
+          "description": "by kaisermannInternationalization for Svelte.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1751,8 +1793,8 @@
         },
         {
           "node_type": "item",
-          "title": "poku by Weslley Araújo",
-          "description": "Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.",
+          "title": "poku",
+          "description": "by Weslley AraújoPoku makes testing easy for Node.js, Bun, Deno, and you at the same time.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1766,8 +1808,8 @@
         },
         {
           "node_type": "item",
-          "title": "Sidequest by Lucas Merencia",
-          "description": "and Giovani GuizzoSidequest is a modern, scalable background job processor for Node.js applications.",
+          "title": "Sidequest",
+          "description": "by Lucas Merencia and Giovani GuizzoSidequest is a modern, scalable background job processor for Node.js applications.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1781,8 +1823,8 @@
         },
         {
           "node_type": "item",
-          "title": "Nullstack by Christian Mortaro",
-          "description": "Framework to develop feature-driven full-stack vanilla JS components. With SSR, SSG, SPA, PWA, SEO and \"too much magic to fit in a line\" out-of-the-box.",
+          "title": "Nullstack",
+          "description": "by Christian MortaroFramework to develop feature-driven full-stack vanilla JS components. With SSR, SSG, SPA, PWA, SEO and \"too much magic to fit in a line\" out-of-the-box.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1796,8 +1838,8 @@
         },
         {
           "node_type": "item",
-          "title": "ajax by fdaciuk",
-          "description": "Ajax module in Vanilla JS",
+          "title": "ajax",
+          "description": "by fdaciukAjax module in Vanilla JS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1811,8 +1853,8 @@
         },
         {
           "node_type": "item",
-          "title": "Algorithms & Data Structures by TK",
-          "description": "Algorithms & Data Structures studies",
+          "title": "Algorithms & Data Structures",
+          "description": "by TKAlgorithms & Data Structures studies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1826,8 +1868,8 @@
         },
         {
           "node_type": "item",
-          "title": "node4noobs by anabastos",
-          "description": "A repository for learning Node working on a project from scratch. Helps people with little programming experience.",
+          "title": "node4noobs",
+          "description": "by anabastosA repository for learning Node working on a project from scratch. Helps people with little programming experience.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1841,8 +1883,8 @@
         },
         {
           "node_type": "item",
-          "title": "subtitle.js by gsantiago",
-          "description": "Parse and manipulate subtitles",
+          "title": "subtitle.js",
+          "description": "by gsantiagoParse and manipulate subtitles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1856,8 +1898,8 @@
         },
         {
           "node_type": "item",
-          "title": "creditcard.js by Conta Azul",
-          "description": "A simple credit cards validation library in JavaScript",
+          "title": "creditcard.js",
+          "description": "by Conta AzulA simple credit cards validation library in JavaScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1871,8 +1913,8 @@
         },
         {
           "node_type": "item",
-          "title": "svelte-loadable by kaisermann",
-          "description": "Dynamically load a svelte component.",
+          "title": "svelte-loadable",
+          "description": "by kaisermannDynamically load a svelte component.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1886,8 +1928,8 @@
         },
         {
           "node_type": "item",
-          "title": "kratos-boilerplate by felipefialho",
-          "description": "A simple and fast boilerplate for creating statics PWA",
+          "title": "kratos-boilerplate",
+          "description": "by felipefialhoA simple and fast boilerplate for creating statics PWA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1901,8 +1943,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-native-3dcube-navigation by zehfernandes",
-          "description": "Cube transition for React Native",
+          "title": "react-native-3dcube-navigation",
+          "description": "by zehfernandesCube transition for React Native",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1916,8 +1958,8 @@
         },
         {
           "node_type": "item",
-          "title": "extenso.js by PortuJS",
-          "description": "Convert number to words (in Portuguese).",
+          "title": "extenso.js",
+          "description": "by PortuJSConvert number to words (in Portuguese).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1931,8 +1973,8 @@
         },
         {
           "node_type": "item",
-          "title": "Brasil API by filipedeschamps",
-          "description": "An API that gives access to resources available on Brazil",
+          "title": "Brasil API",
+          "description": "by filipedeschampsAn API that gives access to resources available on Brazil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1946,8 +1988,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-awesome-styled-grid by santosfrancisco",
-          "description": "A react responsive grid flexbox based",
+          "title": "react-awesome-styled-grid",
+          "description": "by santosfranciscoA react responsive grid flexbox based",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1961,8 +2003,8 @@
         },
         {
           "node_type": "item",
-          "title": "qualy-presenter by willianjusten",
-          "description": "A boilerplate to create presentations",
+          "title": "qualy-presenter",
+          "description": "by willianjustenA boilerplate to create presentations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1976,8 +2018,8 @@
         },
         {
           "node_type": "item",
-          "title": "mussum-ipsum by diegofelipece",
-          "description": "JS Lorem Ipsum generator",
+          "title": "mussum-ipsum",
+          "description": "by diegofelipeceJS Lorem Ipsum generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1991,8 +2033,8 @@
         },
         {
           "node_type": "item",
-          "title": "piii.js by PortuJS",
-          "description": "A filter for bad words (in Portuguese).",
+          "title": "piii.js",
+          "description": "by PortuJSA filter for bad words (in Portuguese).",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2006,8 +2048,8 @@
         },
         {
           "node_type": "item",
-          "title": "Vue Page Title by vinicius73",
-          "description": "Vue.js html/page title manager",
+          "title": "Vue Page Title",
+          "description": "by vinicius73Vue.js html/page title manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2021,8 +2063,8 @@
         },
         {
           "node_type": "item",
-          "title": "cep-promise by filipedeschamps",
-          "description": "Search for CEP using Correios, ViaCEP e etc",
+          "title": "cep-promise",
+          "description": "by filipedeschampsSearch for CEP using Correios, ViaCEP e etc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2042,8 +2084,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Lua Programming language by roberto-ieru",
-          "description": "Lua language, created by a Brazilian, Roberto Ierusalimschy",
+          "title": "Lua Programming language",
+          "description": "by roberto-ieruLua language, created by a Brazilian, Roberto Ierusalimschy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2057,8 +2099,8 @@
         },
         {
           "node_type": "item",
-          "title": "luarocks by hishamhm",
-          "description": "LuaRocks is the package manager for the Lua programming language",
+          "title": "luarocks",
+          "description": "by hishamhmLuaRocks is the package manager for the Lua programming language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2067,13 +2109,13 @@
             "last_commit": "2026-08-16T21:47:37Z",
             "owner": "luarocks",
             "repo": "luarocks",
-            "stars": 3718
+            "stars": 3720
           }
         },
         {
           "node_type": "item",
-          "title": "tl by hishamhm",
-          "description": "The compiler for Teal, a typed dialect of Lua",
+          "title": "tl",
+          "description": "by hishamhmThe compiler for Teal, a typed dialect of Lua",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2093,14 +2135,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Validation by henriquemoody",
-          "description": "The most awesome validation engine ever created for PHP",
+          "title": "Validation",
+          "description": "by henriquemoodyThe most awesome validation engine ever created for PHP",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 931033,
             "language": "PHP",
-            "last_commit": "2026-08-23T00:12:35Z",
+            "last_commit": "2026-08-24T00:13:12Z",
             "owner": "Respect",
             "repo": "Validation",
             "stars": 6028
@@ -2108,8 +2150,8 @@
         },
         {
           "node_type": "item",
-          "title": "Corcel by jgrossi",
-          "description": "WordPress backend with Laravel or any PHP application",
+          "title": "Corcel",
+          "description": "by jgrossiWordPress backend with Laravel or any PHP application",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2123,8 +2165,8 @@
         },
         {
           "node_type": "item",
-          "title": "Siler by leocavalcante",
-          "description": "Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions",
+          "title": "Siler",
+          "description": "by leocavalcanteFlat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2138,8 +2180,8 @@
         },
         {
           "node_type": "item",
-          "title": "Dephpugger by tacnoman",
-          "description": "Debug PHP applications in terminal",
+          "title": "Dephpugger",
+          "description": "by tacnomanDebug PHP applications in terminal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2159,8 +2201,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Dynaconf by rochacbruno",
-          "description": "Configuration Management for Python",
+          "title": "Dynaconf",
+          "description": "by rochacbrunoConfiguration Management for Python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2169,13 +2211,13 @@
             "last_commit": "2026-08-19T17:24:00Z",
             "owner": "dynaconf",
             "repo": "dynaconf",
-            "stars": 4326
+            "stars": 4327
           }
         },
         {
           "node_type": "item",
-          "title": "keyboard by BoppreH",
-          "description": "Hook and simulate global keyboard events on Windows and Linux.",
+          "title": "keyboard",
+          "description": "by BoppreHHook and simulate global keyboard events on Windows and Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2184,13 +2226,13 @@
             "last_commit": "2026-07-10T00:17:11Z",
             "owner": "boppreh",
             "repo": "keyboard",
-            "stars": 3961
+            "stars": 3962
           }
         },
         {
           "node_type": "item",
-          "title": "python-decouple by henriquebastos",
-          "description": "Strict separation of config from code",
+          "title": "python-decouple",
+          "description": "by henriquebastosStrict separation of config from code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2204,8 +2246,8 @@
         },
         {
           "node_type": "item",
-          "title": "splinter by cobrateam",
-          "description": "Python test framework for web applications",
+          "title": "splinter",
+          "description": "by cobrateamPython test framework for web applications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2214,13 +2256,13 @@
             "last_commit": "2025-08-16T15:08:24Z",
             "owner": "cobrateam",
             "repo": "splinter",
-            "stars": 2752
+            "stars": 2753
           }
         },
         {
           "node_type": "item",
-          "title": "dateutil by niemeyer",
-          "description": "Useful extensions to the standard Python datetime features",
+          "title": "dateutil",
+          "description": "by niemeyerUseful extensions to the standard Python datetime features",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2234,8 +2276,8 @@
         },
         {
           "node_type": "item",
-          "title": "django-react-boilerplate by Vinta Software",
-          "description": "Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
+          "title": "django-react-boilerplate",
+          "description": "by Vinta SoftwareDjango, React, Bootstrap 4 with Python 3 and webpack project boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2249,8 +2291,8 @@
         },
         {
           "node_type": "item",
-          "title": "HTTPretty by gabrielfalcao",
-          "description": "HTTP client mocking tool for Python - inspired by Fakeweb for Ruby",
+          "title": "HTTPretty",
+          "description": "by gabrielfalcaoHTTP client mocking tool for Python - inspired by Fakeweb for Ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2264,14 +2306,14 @@
         },
         {
           "node_type": "item",
-          "title": "scanapi by ScanAPI",
-          "description": "Automated Integration Testing and Live Documentation for your API",
+          "title": "scanapi",
+          "description": "by ScanAPIAutomated Integration Testing and Live Documentation for your API",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 197915529,
             "language": "Python",
-            "last_commit": "2026-08-15T12:11:10Z",
+            "last_commit": "2026-08-24T11:35:34Z",
             "owner": "scanapi",
             "repo": "scanapi",
             "stars": 1579
@@ -2279,8 +2321,8 @@
         },
         {
           "node_type": "item",
-          "title": "fklearn by Nubank",
-          "description": "fklearn: Functional Machine Learning",
+          "title": "fklearn",
+          "description": "by Nubankfklearn: Functional Machine Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2294,8 +2336,8 @@
         },
         {
           "node_type": "item",
-          "title": "django-tenant-schemas by bernardopires",
-          "description": "Tenant support for Django using PostgreSQL schemas",
+          "title": "django-tenant-schemas",
+          "description": "by bernardopiresTenant support for Django using PostgreSQL schemas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2309,8 +2351,8 @@
         },
         {
           "node_type": "item",
-          "title": "querido-diario by okfn-brasil",
-          "description": "Brazilian government gazettes, accessible to everyone.",
+          "title": "querido-diario",
+          "description": "by okfn-brasilBrazilian government gazettes, accessible to everyone.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2319,13 +2361,13 @@
             "last_commit": "2026-08-02T20:50:58Z",
             "owner": "okfn-brasil",
             "repo": "querido-diario",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
           "node_type": "item",
-          "title": "lettuce by gabrielfalcao",
-          "description": "Behavior-driven-development tool for python, inspired by Cucumber for Ruby",
+          "title": "lettuce",
+          "description": "by gabrielfalcaoBehavior-driven-development tool for python, inspired by Cucumber for Ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2339,8 +2381,8 @@
         },
         {
           "node_type": "item",
-          "title": "pynubank by andreroggeri",
-          "description": "Acesse seus extratos do Nubank pelo Python",
+          "title": "pynubank",
+          "description": "by andreroggeriAcesse seus extratos do Nubank pelo Python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2354,8 +2396,8 @@
         },
         {
           "node_type": "item",
-          "title": "rows by turicas",
-          "description": "A common, beautiful interface to tabular data, no matter the format",
+          "title": "rows",
+          "description": "by turicasA common, beautiful interface to tabular data, no matter the format",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2369,8 +2411,8 @@
         },
         {
           "node_type": "item",
-          "title": "cookiecutter-fastapi by arthurhenrique",
-          "description": "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytest",
+          "title": "cookiecutter-fastapi",
+          "description": "by arthurhenriqueCookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2384,8 +2426,8 @@
         },
         {
           "node_type": "item",
-          "title": "sure by gabrielfalcao",
-          "description": "Idiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js",
+          "title": "sure",
+          "description": "by gabrielfalcaoIdiomatic assertion toolkit with human-friendly failure messages, inspired on RSpec Expectations and should.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2399,8 +2441,8 @@
         },
         {
           "node_type": "item",
-          "title": "django-htmlmin by cobrateam",
-          "description": "HTML minifier for Python frameworks",
+          "title": "django-htmlmin",
+          "description": "by cobrateamHTML minifier for Python frameworks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2414,14 +2456,14 @@
         },
         {
           "node_type": "item",
-          "title": "brutils-python by brazilian-utils",
-          "description": "Utils library for validating and generating Brazilian documents like CPF, CNPJ, CEP and more",
+          "title": "brutils-python",
+          "description": "by brazilian-utilsUtils library for validating and generating Brazilian documents like CPF, CNPJ, CEP and more",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 78506265,
             "language": "Python",
-            "last_commit": "2026-08-17T03:05:12Z",
+            "last_commit": "2026-08-24T03:03:53Z",
             "owner": "brazilian-utils",
             "repo": "python",
             "stars": 516
@@ -2429,8 +2471,8 @@
         },
         {
           "node_type": "item",
-          "title": "django-ai-assistant by Vinta Software",
-          "description": "Integrate AI Assistants with Django to build intelligent applications",
+          "title": "django-ai-assistant",
+          "description": "by Vinta SoftwareIntegrate AI Assistants with Django to build intelligent applications",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2444,8 +2486,8 @@
         },
         {
           "node_type": "item",
-          "title": "prettyconf by osantana",
-          "description": "A extensible library for Settings/Code separation",
+          "title": "prettyconf",
+          "description": "by osantanaA extensible library for Settings/Code separation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2454,13 +2496,13 @@
             "last_commit": "2026-08-04T22:08:08Z",
             "owner": "osantana",
             "repo": "prettyconf",
-            "stars": 180
+            "stars": 181
           }
         },
         {
           "node_type": "item",
-          "title": "Calculadora do Cidadão by cuducos",
-          "description": "Tool for Brazilian Reais monetary adjustment/correction",
+          "title": "Calculadora do Cidadão",
+          "description": "by cuducosTool for Brazilian Reais monetary adjustment/correction",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2474,8 +2516,8 @@
         },
         {
           "node_type": "item",
-          "title": "isk-daemon by ricardocabral",
-          "description": "Open source database for content-based (visual) image search",
+          "title": "isk-daemon",
+          "description": "by ricardocabralOpen source database for content-based (visual) image search",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2495,8 +2537,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Rails gem devise by josevalim",
-          "description": ", carlosantoniodasilva.Rails gem devise for user authentication",
+          "title": "Rails gem devise",
+          "description": "by josevalim, carlosantoniodasilva.Rails gem devise for user authentication",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2505,13 +2547,13 @@
             "last_commit": "2026-06-22T17:32:32Z",
             "owner": "heartcombo",
             "repo": "devise",
-            "stars": 24359
+            "stars": 24360
           }
         },
         {
           "node_type": "item",
-          "title": "Rails gem simpleform by josevalim",
-          "description": ", carlosantoniodasilva, rafaelfrancaRails gem simple form for forms",
+          "title": "Rails gem simpleform",
+          "description": "by josevalim, carlosantoniodasilva, rafaelfrancaRails gem simple form for forms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2520,13 +2562,13 @@
             "last_commit": "2026-04-01T23:20:59Z",
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8227
+            "stars": 8228
           }
         },
         {
           "node_type": "item",
-          "title": "browser by fnando",
-          "description": "Do some browser detection with Ruby. Includes ActionController integration",
+          "title": "browser",
+          "description": "by fnandoDo some browser detection with Ruby. Includes ActionController integration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2540,8 +2582,8 @@
         },
         {
           "node_type": "item",
-          "title": "vagrant-lxc by fgrehm",
-          "description": "LXC provider for Vagrant",
+          "title": "vagrant-lxc",
+          "description": "by fgrehmLXC provider for Vagrant",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2550,7 +2592,7 @@
             "last_commit": "2022-11-24T23:41:12Z",
             "owner": "fgrehm",
             "repo": "vagrant-lxc",
-            "stars": 1193
+            "stars": 1192
           }
         }
       ],
@@ -2561,8 +2603,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Bend by HigherOrderCO",
-          "description": "A massively parallel, high-level programming language",
+          "title": "Bend",
+          "description": "by HigherOrderCOA massively parallel, high-level programming language",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2576,8 +2618,8 @@
         },
         {
           "node_type": "item",
-          "title": "HVM by HigherOrderCO",
-          "description": "A massively parallel, optimal functional runtime in Rust",
+          "title": "HVM",
+          "description": "by HigherOrderCOA massively parallel, optimal functional runtime in Rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2591,23 +2633,23 @@
         },
         {
           "node_type": "item",
-          "title": "Rio by raphamorim",
-          "description": "A hardware-accelerated GPU terminal emulator that runs in desktops and browsers",
+          "title": "Rio",
+          "description": "by raphamorimA hardware-accelerated GPU terminal emulator that runs in desktops and browsers",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 546129875,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:28:42Z",
+            "last_commit": "2026-08-23T21:31:06Z",
             "owner": "raphamorim",
             "repo": "rio",
-            "stars": 7391
+            "stars": 7392
           }
         },
         {
           "node_type": "item",
-          "title": "py2rs by rochacbruno",
-          "description": "A quick reference guide for the Pythonista in the process of becoming a Rustacean",
+          "title": "py2rs",
+          "description": "by rochacbrunoA quick reference guide for the Pythonista in the process of becoming a Rustacean",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2621,8 +2663,8 @@
         },
         {
           "node_type": "item",
-          "title": "KFtray by hcavarsan",
-          "description": "A cross-platform app for managing Kubernetes port forward configurations in the menu bar.",
+          "title": "KFtray",
+          "description": "by hcavarsanA cross-platform app for managing Kubernetes port forward configurations in the menu bar.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2631,13 +2673,13 @@
             "last_commit": "2026-08-23T02:35:04Z",
             "owner": "hcavarsan",
             "repo": "kftray",
-            "stars": 1551
+            "stars": 1553
           }
         },
         {
           "node_type": "item",
-          "title": "Marmite by rochacbruno",
-          "description": "A Static Site Generator for blogs that is simple, fast and written in Rust",
+          "title": "Marmite",
+          "description": "by rochacbrunoA Static Site Generator for blogs that is simple, fast and written in Rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2657,8 +2699,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Zim by ericbn",
-          "description": "Modular, customizable, and blazing fast Zsh framework",
+          "title": "Zim",
+          "description": "by ericbnModular, customizable, and blazing fast Zsh framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2672,8 +2714,8 @@
         },
         {
           "node_type": "item",
-          "title": "bullet-train.zsh by caiogondim",
-          "description": "oh-my-zsh shell theme based on the Powerline Vim plugin",
+          "title": "bullet-train.zsh",
+          "description": "by caiogondimoh-my-zsh shell theme based on the Powerline Vim plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2693,23 +2735,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "ariakit by diegohaz",
-          "description": "Toolkit for building accessible web apps with React",
+          "title": "ariakit",
+          "description": "by diegohazToolkit for building accessible web apps with React",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 104133653,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T16:15:06Z",
+            "last_commit": "2026-08-24T10:48:21Z",
             "owner": "ariakit",
             "repo": "ariakit",
-            "stars": 8600
+            "stars": 8601
           }
         },
         {
           "node_type": "item",
-          "title": "concurrently by gustavohenke",
-          "description": "Run commands concurrently. Like but better.",
+          "title": "concurrently",
+          "description": "by gustavohenkeRun commands concurrently. Like but better.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2723,8 +2765,8 @@
         },
         {
           "node_type": "item",
-          "title": "vscode-project-manager by alefragnani",
-          "description": "Project Manager Extension for Visual Studio Code",
+          "title": "vscode-project-manager",
+          "description": "by alefragnaniProject Manager Extension for Visual Studio Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2738,14 +2780,14 @@
         },
         {
           "node_type": "item",
-          "title": "ExpressoTS Framework by Richard Zampieri",
-          "description": "A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎",
+          "title": "ExpressoTS Framework",
+          "description": "by Richard ZampieriA Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 349918272,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:18:19Z",
+            "last_commit": "2026-08-24T02:18:24Z",
             "owner": "expressots",
             "repo": "expressots",
             "stars": 1848
@@ -2753,8 +2795,8 @@
         },
         {
           "node_type": "item",
-          "title": "Zard/ui by luizgomess",
-          "description": "The alternative shadcn/ui for angular",
+          "title": "Zard/ui",
+          "description": "by luizgomessThe alternative shadcn/ui for angular",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2763,13 +2805,13 @@
             "last_commit": "2026-08-21T18:02:41Z",
             "owner": "zard-ui",
             "repo": "zardui",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
           "node_type": "item",
-          "title": "whatsapp-bot by caioagiani",
-          "description": "BOT - WhatsApp Web in TypeScript",
+          "title": "whatsapp-bot",
+          "description": "by caioagianiBOT - WhatsApp Web in TypeScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2789,23 +2831,23 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Neovim by tarruda",
-          "description": "Neovim is the most popular vim fork and refactor that simplifies maintenance, enable advanced UIs and maximize extensibility",
+          "title": "Neovim",
+          "description": "by tarrudaNeovim is the most popular vim fork and refactor that simplifies maintenance, enable advanced UIs and maximize extensibility",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-23T16:38:08Z",
+            "last_commit": "2026-08-24T12:41:58Z",
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 101917
+            "stars": 101931
           }
         },
         {
           "node_type": "item",
-          "title": "vim-bootstrap by avelino",
-          "description": "Generator provides a simple method of generating a .vimrc configuration for vim",
+          "title": "vim-bootstrap",
+          "description": "by avelinoGenerator provides a simple method of generating a .vimrc configuration for vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2835,7 +2877,7 @@
             "last_commit": "2026-07-20T12:25:08Z",
             "owner": "frontendbr",
             "repo": "forum",
-            "stars": 4239
+            "stars": 4240
           }
         },
         {
@@ -2858,7 +2900,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:55:38.973Z",
+    "last_updated": "2026-08-24T14:09:01.035Z",
     "original_repository": "felipefialho/awesome-made-by-brazilians",
     "original_repository_id": 289337987,
     "original_repository_sha": "854c096cff44dc9ca3f34a9b2377b1bab134d2c4",
