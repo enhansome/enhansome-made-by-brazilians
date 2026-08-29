@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+            "homepage": "http://www.langflow.org",
             "id": 599320067,
             "language": "Python",
-            "last_commit": "2026-08-29T00:35:08Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:41:50Z",
+            "open_issues": 991,
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 153822
+            "stars": 153829,
+            "topics": [
+              "agents",
+              "chatgpt",
+              "generative-ai",
+              "large-language-models",
+              "multiagent",
+              "react-flow"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧛🏻‍♂️ One theme. All platforms.",
+            "homepage": "https://draculatheme.com",
             "id": 13900913,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-13T14:12:09Z",
+            "open_issues": 6,
             "owner": "dracula",
             "repo": "dracula-theme",
-            "stars": 23566
+            "stars": 23566,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -42,12 +59,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them",
+            "homepage": "https://devhubapp.com",
             "id": 75236196,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-09-07T23:06:30Z",
+            "open_issues": 102,
             "owner": "devhubapp",
             "repo": "devhub",
-            "stars": 10119
+            "stars": 10119,
+            "topics": [
+              "android",
+              "cross-platform",
+              "desktop",
+              "devhub",
+              "electron",
+              "github",
+              "github-api",
+              "graphql",
+              "hacktoberfest",
+              "ios",
+              "javascript",
+              "macos",
+              "notifications",
+              "react",
+              "react-native",
+              "react-native-web",
+              "redux",
+              "typescript",
+              "web",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -58,12 +101,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The unofficial WWDC app for macOS",
+            "homepage": "https://wwdc.io",
             "id": 34222505,
             "language": "Swift",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-17T20:11:54Z",
+            "open_issues": 23,
             "owner": "insidegui",
             "repo": "WWDC",
-            "stars": 8762
+            "stars": 8761,
+            "topics": [
+              "apple",
+              "developer-experience",
+              "developer-tools",
+              "macos",
+              "osx",
+              "swift",
+              "video",
+              "wwdc"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -74,12 +131,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕵 Artificial Intelligence for social control of public administration | **This repository does not receive frequent updates. Check out the README**",
+            "homepage": "https://serenata.ai/en",
             "id": 62087567,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-31T20:29:15Z",
+            "open_issues": 69,
             "owner": "okfn-brasil",
             "repo": "serenata-de-amor",
-            "stars": 4604
+            "stars": 4604,
+            "topics": [
+              "artificial-intelligence",
+              "civic-tech",
+              "data-science",
+              "machine-learning",
+              "open-data",
+              "politics"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -90,12 +159,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uma ferramenta que quebra barreiras de acesso e elementos que atrapalham a leitura! / Marreta is a tool that removes access barriers and visual distractions!",
+            "homepage": "https://marreta.link",
             "id": 892756836,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T20:07:39Z",
+            "open_issues": 2,
             "owner": "manualdousuario",
             "repo": "marreta",
-            "stars": 1208
+            "stars": 1208,
+            "topics": [
+              "bypasser",
+              "paywall",
+              "paywall-bypasser"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -106,12 +184,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linguagem de programação em português,  simples e moderna",
+            "homepage": "https://egua.dev",
             "id": 253362929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:25:28Z",
+            "open_issues": 9,
             "owner": "eguadev",
             "repo": "egua",
-            "stars": 849
+            "stars": 849,
+            "topics": [
+              "egua",
+              "javascript",
+              "linguagem-de-programacao",
+              "portugues",
+              "programacao",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -122,12 +212,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lançando o maior software livre de educação do Brasil!",
+            "homepage": "https://ieducar.org",
             "id": 7943685,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-06T17:20:37Z",
+            "open_issues": 36,
             "owner": "portabilis",
             "repo": "i-educar",
-            "stars": 708
+            "stars": 708,
+            "topics": [
+              "brasil",
+              "educacao",
+              "laravel",
+              "open-source",
+              "php",
+              "software-publico"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -138,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One click and be ready to go up on stage and shine!",
+            "homepage": "https://pliim.app/",
             "id": 111428933,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-07-11T14:48:39Z",
+            "open_issues": 8,
             "owner": "zehfernandes",
             "repo": "pliim",
-            "stars": 681
+            "stars": 681,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -154,12 +261,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome and Firefox extension that improves Bitbucket's user experience",
+            "homepage": "https://chrome.google.com/webstore/detail/refined-bitbucket/afppminkfnfngihdocacbgeajbbdklkf",
             "id": 55722227,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T09:39:32Z",
+            "open_issues": 65,
             "owner": "refined-bitbucket",
             "repo": "refined-bitbucket",
-            "stars": 643
+            "stars": 643,
+            "topics": [
+              "bitbucket",
+              "chrome",
+              "chrome-extension",
+              "firefox",
+              "firefox-addon",
+              "highlight",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -170,12 +290,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository with a bunch of funny algorithms, beginners friendly ",
+            "homepage": null,
             "id": 150083876,
             "language": "C++",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T15:36:25Z",
+            "open_issues": 124,
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "beginners-friendly",
+              "first-timers",
+              "first-timers-friendly",
+              "funny-algorithms",
+              "funny-experiments",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -186,12 +320,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Telegram Bot @RastreioBot",
+            "homepage": "https://rastreiobot.xyz",
             "id": 80653249,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-21T14:10:14Z",
+            "open_issues": 22,
             "owner": "GabrielRF",
             "repo": "RastreioBot",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "hacktoberfest",
+              "mongodb",
+              "python",
+              "telegram",
+              "telegram-bot",
+              "telegram-bot-api"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -202,12 +348,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Easier way to choose the best talks.",
+            "homepage": "http://speakerfight.com",
             "id": 18576116,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T02:02:37Z",
+            "open_issues": 93,
             "owner": "luanfonceca",
             "repo": "speakerfight",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "django",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -218,12 +372,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sistema web para controle financeiro pessoal ou de pequenas empresas",
+            "homepage": null,
             "id": 28550800,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-21T10:31:17Z",
+            "open_issues": 49,
             "owner": "arthurgregorio",
             "repo": "web-budget",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "apache-shiro",
+              "cdi",
+              "control",
+              "docker",
+              "financial",
+              "html",
+              "java",
+              "jsf",
+              "mariadb",
+              "maven",
+              "postgresql",
+              "primefaces",
+              "web",
+              "wildfly"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -234,12 +408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On the internet, nobody knows you're a dog",
+            "homepage": "anonydog-git-master.anonydog.vercel.app",
             "id": 77246682,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-12-01T00:54:48Z",
+            "open_issues": 12,
             "owner": "anonydog",
             "repo": "anonydog",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "bots",
+              "developer-tools",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -256,12 +439,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "homepage": "https://awesome-go.com",
             "id": 21540759,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:52:34Z",
+            "open_issues": 219,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182555
+            "stars": 182559,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -272,12 +467,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to shadcn/ui.",
+            "homepage": "https://awesomeshadcn.dev/",
             "id": 753271457,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:57:40Z",
+            "open_issues": 33,
             "owner": "birobirobiro",
             "repo": "awesome-shadcn-ui",
-            "stars": 20402
+            "stars": 20403,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "open-source",
+              "resources",
+              "shad",
+              "shadcn",
+              "shadcn-ui"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -288,12 +497,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-28T17:26:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17212
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -304,12 +535,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A public list of open-source challenges from companies around the world",
+            "homepage": null,
             "id": 83603533,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-05-14T17:38:08Z",
+            "open_issues": 2,
             "owner": "felipefialho",
             "repo": "frontend-challenges",
-            "stars": 15014
+            "stars": 15014,
+            "topics": [
+              "challenge",
+              "challenges",
+              "companies-list",
+              "front-end",
+              "job-challenge",
+              "jobs",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -320,12 +564,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A public list of open-source challenges from jobs around the world",
+            "homepage": null,
             "id": 195897446,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-04T00:02:22Z",
+            "open_issues": 0,
             "owner": "CollabCodeTech",
             "repo": "backend-challenges",
-            "stars": 9986
+            "stars": 9986,
+            "topics": [
+              "backend-challenges",
+              "challenges",
+              "coding-challenges",
+              "interview-test",
+              "job-challenge",
+              "jobs",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -336,12 +593,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Web Performance Optimization. ",
+            "homepage": "https://awesome-wpo.dev/",
             "id": 25212911,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-28T02:18:16Z",
+            "open_issues": 21,
             "owner": "davidsonfellipe",
             "repo": "awesome-wpo",
-            "stars": 9054
+            "stars": 9054,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "list",
+              "webperf",
+              "webperf-metrics",
+              "webperformance"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -352,12 +621,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome MLOps tools",
+            "homepage": null,
             "id": 266895706,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T00:21:28Z",
+            "open_issues": 78,
             "owner": "kelvins",
             "repo": "awesome-mlops",
-            "stars": 5259
+            "stars": 5259,
+            "topics": [
+              "ai",
+              "awesome",
+              "data-science",
+              "machine-learning",
+              "machine-learning-engineering",
+              "ml",
+              "mle",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -368,12 +651,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lista de empresas com trabalho remoto no Brasil",
+            "homepage": null,
             "id": 44201891,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-10T19:37:59Z",
+            "open_issues": 21,
             "owner": "lerrua",
             "repo": "remote-jobs-brazil",
-            "stars": 5206
+            "stars": 5206,
+            "topics": [
+              "awesome-list",
+              "remote-work"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -384,12 +675,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of SVG. ",
+            "homepage": null,
             "id": 24217086,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-16T16:17:42Z",
+            "open_issues": 37,
             "owner": "willianjusten",
             "repo": "awesome-svg",
-            "stars": 4649
+            "stars": 4649,
+            "topics": [
+              "awesome-list",
+              "svg"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -400,12 +699,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.",
+            "homepage": null,
             "id": 250712531,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-12T18:35:47Z",
+            "open_issues": 6,
             "owner": "he4rt",
             "repo": "4noobs",
-            "stars": 4359
+            "stars": 4359,
+            "topics": [
+              "4noobs",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -416,12 +723,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome project development links",
+            "homepage": null,
             "id": 176330798,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-10T04:25:28Z",
+            "open_issues": 9,
             "owner": "gdcmarinho",
             "repo": "awesome-project",
-            "stars": 3315
+            "stars": 3315,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "collection",
+              "curated",
+              "curated-list",
+              "design",
+              "links",
+              "list",
+              "programming",
+              "project",
+              "project-management",
+              "projects"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -432,12 +758,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curate list about A11Y",
+            "homepage": null,
             "id": 35356178,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-03T22:10:04Z",
+            "open_issues": 63,
             "owner": "brunopulis",
             "repo": "awesome-a11y",
-            "stars": 1986
+            "stars": 1986,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "assistive-technology",
+              "awesome",
+              "awesome-list",
+              "wai-aria",
+              "wcag"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -448,12 +787,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+            "homepage": null,
             "id": 28413081,
             "language": "Markdown",
+            "license": "MIT",
             "last_commit": "2026-06-14T09:29:51Z",
+            "open_issues": 13,
             "owner": "raphamorim",
             "repo": "awesome-canvas",
-            "stars": 1861
+            "stars": 1861,
+            "topics": [
+              "awesome",
+              "awesome-canvas",
+              "awesome-list",
+              "canvas-element",
+              "canvas2d",
+              "draw-graphics",
+              "html5-canvas",
+              "javascript",
+              "particles"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -464,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português",
+            "homepage": null,
             "id": 257731091,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-16T12:04:20Z",
+            "open_issues": 1,
             "owner": "gabiduarte",
             "repo": "awesome-techleads",
-            "stars": 1647
+            "stars": 1647,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -480,12 +839,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :house_with_garden: Dados relacionados aos municípios brasileiros",
+            "homepage": null,
             "id": 76459285,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-10T23:00:11Z",
+            "open_issues": 10,
             "owner": "kelvins",
             "repo": "municipios-brasileiros",
-            "stars": 1268
+            "stars": 1268,
+            "topics": [
+              "codigo-ibge",
+              "csv",
+              "dados",
+              "estados",
+              "latitude",
+              "longitude",
+              "municipios",
+              "municipios-brasileiros",
+              "sql",
+              "uf"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -496,12 +871,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games",
+            "homepage": null,
             "id": 151342385,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-08T01:57:45Z",
+            "open_issues": 3,
             "owner": "leomaurodesenv",
             "repo": "game-datasets",
-            "stars": 1109
+            "stars": 1109,
+            "topics": [
+              "artificial-intelligence",
+              "awesome",
+              "awesome-game",
+              "awesome-list",
+              "data-mining",
+              "database",
+              "dataset",
+              "game",
+              "games"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -512,12 +902,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Web Performance Research",
+            "homepage": "https://iamtk.co/web-performance-roadmap",
             "id": 277315091,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-07T20:30:01Z",
+            "open_issues": 1,
             "owner": "imteekay",
             "repo": "web-performance-research",
-            "stars": 1051
+            "stars": 1051,
+            "topics": [
+              "browser",
+              "javascript",
+              "performance",
+              "react",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -528,12 +929,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ A Learning Path for Functional Programming",
+            "homepage": null,
             "id": 145241512,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2024-10-22T11:41:29Z",
+            "open_issues": 1,
             "owner": "imteekay",
             "repo": "functional-programming-learning-path",
-            "stars": 1042
+            "stars": 1042,
+            "topics": [
+              "clojure",
+              "functional-languages",
+              "functional-programming",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -544,12 +955,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Programming Language Research, Applied PLT & Compilers",
+            "homepage": "https://iamtk.co/tags/programming-language-design",
             "id": 181586065,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2024-10-22T11:41:16Z",
+            "open_issues": 1,
             "owner": "imteekay",
             "repo": "programming-language-research",
-            "stars": 958
+            "stars": 958,
+            "topics": [
+              "compiler",
+              "compiler-design",
+              "plt",
+              "programming-language-theory",
+              "programming-languages-design"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -560,12 +982,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":star2: A curated list of SEO (Search Engine Optimization) links.",
+            "homepage": "https://teles.dev.br/awesome-seo/",
             "id": 43190948,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-02T07:42:41Z",
+            "open_issues": 103,
             "owner": "teles",
             "repo": "awesome-seo",
-            "stars": 884
+            "stars": 884,
+            "topics": [
+              "hacktoberfest",
+              "seo"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -576,12 +1006,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Hacktoberfest 2023 repositories, guides and resources",
+            "homepage": "https://otacilion.github.io/awesome-hacktoberfest/",
             "id": 148955269,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-11-03T19:17:26Z",
+            "open_issues": 30,
             "owner": "OtacilioN",
             "repo": "awesome-hacktoberfest",
-            "stars": 860
+            "stars": 860,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "begginer-friendly",
+              "first-time-contributors",
+              "first-timer",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "hacktoberfest2022"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -592,12 +1036,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇷 - :metal: Curadoria de blogs em português brasileiro sobre desenvolvimento",
+            "homepage": null,
             "id": 72492478,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-24T19:56:38Z",
+            "open_issues": 1,
             "owner": "Wmitrut",
             "repo": "awesome-brazilian-devblogs",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "brazilian-devblogs",
+              "brazilian-portuguese",
+              "community",
+              "community-project"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -608,12 +1064,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.",
+            "homepage": null,
             "id": 59441906,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-11-25T17:45:31Z",
+            "open_issues": 3,
             "owner": "Spacial",
             "repo": "awesome-csirt",
-            "stars": 647
+            "stars": 647,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "csirt",
+              "cve",
+              "exfiltration",
+              "exploits",
+              "malware-analysis",
+              "pentesting",
+              "poc",
+              "reverse-engineering",
+              "secure-programming",
+              "security",
+              "threat-intelligence"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -624,12 +1099,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uma lista de canais ou cursos sobre tecnologia feitos por mulheres.",
+            "homepage": "https://comunidadecafeina.github.io/women-teaching-tech/",
             "id": 272100553,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-15T14:40:30Z",
+            "open_issues": 5,
             "owner": "ComunidadeCafeina",
             "repo": "women-teaching-tech",
-            "stars": 559
+            "stars": 559,
+            "topics": [
+              "awesome-list",
+              "good-first-issue",
+              "hacktoberfest",
+              "help-wanted"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -640,12 +1125,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇧🇷 🏦 📋 Brazilian banks list",
+            "homepage": "https://guilherme.stracini.com.br/BancosBrasileiros/",
             "id": 108443355,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-08-28T21:46:14Z",
+            "open_issues": 4,
             "owner": "guibranco",
             "repo": "BancosBrasileiros",
-            "stars": 544
+            "stars": 544,
+            "topics": [
+              "bacen",
+              "banco",
+              "banco-central-do-brasil",
+              "bancocentral",
+              "bancocentraldobrasil",
+              "bancos",
+              "bank",
+              "banks",
+              "bcb",
+              "brasileiros",
+              "comercial",
+              "csv",
+              "febraban",
+              "federacao-brasileira-de-bancos",
+              "hacktoberfest",
+              "json",
+              "pix",
+              "spi",
+              "sql",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -656,12 +1167,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bulb: Ideias de aplicativos.",
+            "homepage": null,
             "id": 50524913,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-04T11:58:34Z",
+            "open_issues": 11,
             "owner": "teles",
             "repo": "awesome-ideas",
-            "stars": 441
+            "stars": 441,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -672,12 +1188,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tradução da documentação oficial do framework Cypress.io - traduzida pela comunidade em Português-BR :globe_with_meridians:",
+            "homepage": null,
             "id": 329983157,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T13:00:49Z",
+            "open_issues": 6,
             "owner": "pedrohyvo",
             "repo": "cypress-docs-pt-br",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "brasil",
+              "brazilian-portuguese",
+              "cypress",
+              "cypress-io",
+              "documentacao",
+              "documentation",
+              "opensource",
+              "portugues",
+              "portuguese",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -688,12 +1220,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Frontend Infrastructure Research",
+            "homepage": "https://iamtk.co/frontend-infrastructure",
             "id": 461864176,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-22T11:41:26Z",
+            "open_issues": 0,
             "owner": "imteekay",
             "repo": "frontend-infrastructure",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "developer-experience",
+              "developer-tools",
+              "frontend",
+              "frontend-infrastructure",
+              "javascript",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -704,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modelo de contrato de prestação de serviços [ Desenvolvedor Freelancer ]. ",
+            "homepage": null,
             "id": 106757599,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-10-13T00:07:19Z",
+            "open_issues": 1,
             "owner": "apsantos-dev",
             "repo": "modelo-de-contrato",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -720,12 +1269,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conteúdos de referência produzidos por Mulheres inspiradoras da tecnologia.",
+            "homepage": "https://www.instagram.com/ana.tech.dev/",
             "id": 463305585,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-05-07T02:34:53Z",
+            "open_issues": 1,
             "owner": "anatechdev",
             "repo": "mulheres-na-tecnologia",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "github",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest10",
+              "hacktoberfest2022",
+              "hacktoberfest2023",
+              "hacktoberfest23",
+              "mulheres-na-tecnologia",
+              "womenintech"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -742,12 +1306,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺",
+            "homepage": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
             "id": 109762904,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-18T14:18:13Z",
+            "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11040
+            "stars": 11039,
+            "topics": [
+              "codec",
+              "ffmpeg",
+              "ffmpeg-libraries",
+              "libav",
+              "transcode-video",
+              "tutorial",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -758,12 +1335,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental, scalable, high performance HTTP server",
+            "homepage": "https://lwan.ws",
             "id": 3287591,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T13:17:04Z",
+            "open_issues": 49,
             "owner": "lpereira",
             "repo": "lwan",
-            "stars": 6033
+            "stars": 6033,
+            "topics": [
+              "c",
+              "experimental",
+              "http",
+              "library",
+              "lwan"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -774,12 +1362,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.",
+            "homepage": null,
             "id": 15884926,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-11-17T07:00:48Z",
+            "open_issues": 315,
             "owner": "hishamhm",
             "repo": "htop",
-            "stars": 5895
+            "stars": 5895,
+            "topics": [
+              "c",
+              "console",
+              "console-application",
+              "freebsd",
+              "htop",
+              "linux",
+              "macos",
+              "openbsd",
+              "process-monitor",
+              "system",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -790,12 +1396,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System profiler and benchmark tool for Linux systems",
+            "homepage": "http://hardinfo.org",
             "id": 28606,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-04-24T17:46:19Z",
+            "open_issues": 155,
             "owner": "lpereira",
             "repo": "hardinfo",
-            "stars": 817
+            "stars": 817,
+            "topics": [
+              "c",
+              "linux",
+              "profiler",
+              "system-information"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -806,12 +1422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A microframework for C based on GLib.",
+            "homepage": "https://balde.rgm.io/",
             "id": 14959533,
             "language": "C",
+            "license": "LGPL-2.1",
             "last_commit": "2025-02-23T15:41:04Z",
+            "open_issues": 6,
             "owner": "balde",
             "repo": "balde",
-            "stars": 726
+            "stars": 726,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -822,12 +1443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Binary Serialization",
+            "homepage": null,
             "id": 36383456,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T14:40:57Z",
+            "open_issues": 11,
             "owner": "liteserver",
             "repo": "binn",
-            "stars": 482
+            "stars": 482,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -844,12 +1470,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Application ASP.NET 9 using Clean Architecture, DDD, CQRS, Event Sourcing and a lot of good practices",
+            "homepage": "http://equinoxproject.azurewebsites.net/",
             "id": 76425236,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-14T23:33:37Z",
+            "open_issues": 6,
             "owner": "EduardoPires",
             "repo": "EquinoxProject",
-            "stars": 6779
+            "stars": 6779,
+            "topics": [
+              "architecture",
+              "asp-net-core",
+              "asp-net-core-mvc",
+              "asp-net-identity",
+              "aspnet-core",
+              "aspnetcore",
+              "automapper",
+              "clean-code",
+              "cqrs",
+              "ddd",
+              "ef-core",
+              "equinox",
+              "event-sourcing",
+              "eventstore",
+              "fluentvalidation",
+              "jwt",
+              "mediatr",
+              "onion-architecture",
+              "swagger",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -860,12 +1512,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bridge between Lua and the .NET.",
+            "homepage": "http://nlua.org",
             "id": 8605054,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:08:16Z",
+            "open_issues": 112,
             "owner": "NLua",
             "repo": "NLua",
-            "stars": 2243
+            "stars": 2243,
+            "topics": [
+              "c-sharp",
+              "dotnet",
+              "lua",
+              "lua-functions",
+              "luainterface",
+              "netcore",
+              "netstandard",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -876,12 +1542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent Validator is a fluent way to use Notification Pattern with your entities",
+            "homepage": null,
             "id": 79722806,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-10-27T18:39:37Z",
+            "open_issues": 11,
             "owner": "andrebaltieri",
             "repo": "FluentValidator",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -898,12 +1569,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matplot++: A C++ Graphics Library for Data Visualization 📊🗾",
+            "homepage": "https://alandefreitas.github.io/matplotplusplus/",
             "id": 291173540,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-04-02T14:07:46Z",
+            "open_issues": 82,
             "owner": "alandefreitas",
             "repo": "matplotplusplus",
-            "stars": 4923
+            "stars": 4923,
+            "topics": [
+              "charting-library",
+              "charts",
+              "contour-plots",
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "graphics",
+              "graphics-library",
+              "graphs",
+              "matplot",
+              "plot-categories",
+              "plots",
+              "polar-plots",
+              "scientific-computing",
+              "scientific-visualization",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -914,12 +1607,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!",
+            "homepage": "https://pgmodeler.io",
             "id": 5533936,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-22T19:16:44Z",
+            "open_issues": 283,
             "owner": "nullptrlabs",
             "repo": "pgmodeler",
-            "stars": 3587
+            "stars": 3587,
+            "topics": [
+              "c-plus-plus",
+              "code-generator",
+              "database",
+              "database-modeling",
+              "ddl-commands",
+              "entity-relationship-diagram",
+              "pgmodeler",
+              "postgresql",
+              "sql-standards"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -930,12 +1638,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A C++ Background Subtraction Library with wrappers for Python, MATLAB, Java and GUI on QT",
+            "homepage": null,
             "id": 16894733,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-05-28T13:02:05Z",
+            "open_issues": 89,
             "owner": "andrewssobral",
             "repo": "bgslibrary",
-            "stars": 2277
+            "stars": 2277,
+            "topics": [
+              "background-subtraction",
+              "bgs",
+              "computer-vision",
+              "foreground-detection",
+              "moving-object-detection",
+              "opencv",
+              "pybgs"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -946,12 +1667,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A (very) simple UI lib built on top of OpenCV drawing primitives",
+            "homepage": "https://dovyski.github.io/cvui/",
             "id": 61278506,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-09-04T19:53:57Z",
+            "open_issues": 57,
             "owner": "Dovyski",
             "repo": "cvui",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "computer-vision",
+              "cpp",
+              "gui",
+              "imgui",
+              "opencv",
+              "opencv-drawing-primitives",
+              "python",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -962,12 +1697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coleção de materiais e links para aprendizado de C e C++, em português ou inglês.",
+            "homepage": null,
             "id": 250092865,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-04-27T14:19:22Z",
+            "open_issues": 3,
             "owner": "cppbrasil",
             "repo": "material-de-aprendizado",
-            "stars": 428
+            "stars": 428,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -978,12 +1718,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hot reload for nested qml files",
+            "homepage": null,
             "id": 192014830,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-22T22:13:32Z",
+            "open_issues": 13,
             "owner": "patrickelectric",
             "repo": "qhot",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "debug",
+              "hot-reload",
+              "qhot",
+              "qml",
+              "qt",
+              "reload",
+              "test"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -994,12 +1747,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR. :brazil:",
+            "homepage": "https://otacilion.github.io/Brasilino/",
             "id": 62825163,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T20:59:57Z",
+            "open_issues": 12,
             "owner": "OtacilioN",
             "repo": "Brasilino",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "arduino",
+              "arduino-library",
+              "brasil",
+              "brasilino",
+              "portugues",
+              "portuguese",
+              "pt-br",
+              "traducao",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1016,12 +1784,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist CSS framework.",
+            "homepage": "https://milligram.io",
             "id": 47775741,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-31T16:35:52Z",
+            "open_issues": 124,
             "owner": "milligram",
             "repo": "milligram",
-            "stars": 10216
+            "stars": 10216,
+            "topics": [
+              "amp",
+              "css",
+              "css-framework",
+              "design",
+              "flexbox",
+              "framework",
+              "hacktoberfest",
+              "html",
+              "milligram",
+              "minimalist"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1032,12 +1816,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tooltips made of pure CSS",
+            "homepage": "https://kazzkiq.github.io/balloon.css/",
             "id": 52897468,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-07-08T13:19:06Z",
+            "open_issues": 23,
             "owner": "kazzkiq",
             "repo": "balloon.css",
-            "stars": 5008
+            "stars": 5008,
+            "topics": [
+              "css",
+              "html",
+              "less",
+              "sass",
+              "tooltip"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1048,12 +1843,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple loaders for your web applications using only one div and pure CSS :heart:",
+            "homepage": "http://raphaelfabeni.github.io/css-loader",
             "id": 71022142,
             "language": "Sass",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-03T03:43:59Z",
+            "open_issues": 13,
             "owner": "raphaelfabeni",
             "repo": "css-loader",
-            "stars": 1249
+            "stars": 1249,
+            "topics": [
+              "css",
+              "css-loader",
+              "loader"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1064,12 +1868,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":coffee: A set of common UI Components using just the power of CSS and without JavaScript.",
+            "homepage": "https://css-components.felipefialho.com/",
             "id": 18196847,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-10-11T11:44:41Z",
+            "open_issues": 5,
             "owner": "felipefialho",
             "repo": "css-components",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "boostrap",
+              "carousel",
+              "collapse",
+              "components",
+              "css",
+              "css-components",
+              "modal",
+              "no-javascript",
+              "pure-css",
+              "purecss",
+              "tooltip"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1080,12 +1901,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌱 The minimalist CSS library.",
+            "homepage": "https://luxacss.com",
             "id": 270701194,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-04T01:01:37Z",
+            "open_issues": 0,
             "owner": "luxonauta",
             "repo": "luxacss",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "css",
+              "library",
+              "minimal",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1096,12 +1927,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":banana: The brazilian CSS preprocessor writen in NodeJS.",
+            "homepage": "http://bananacss.github.io/",
             "id": 62778136,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-31T17:21:56Z",
+            "open_issues": 8,
             "owner": "bananacss",
             "repo": "bananacss",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "abstractions",
+              "banana",
+              "css",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "nodejs",
+              "preprocessor",
+              "superset"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1112,12 +1957,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minigame for learning TailwindCSS.",
+            "homepage": "https://css2wind.com",
             "id": 652428242,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-17T15:57:58Z",
+            "open_issues": 2,
             "owner": "LukeberryPi",
             "repo": "css2wind",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1134,12 +1984,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure & ClojureScript Language Server (LSP) implementation",
+            "homepage": "https://clojure-lsp.io",
             "id": 127097119,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2026-08-20T19:41:51Z",
+            "open_issues": 217,
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
-            "stars": 1322
+            "stars": 1322,
+            "topics": [
+              "clj",
+              "clojure",
+              "clojure-lsp",
+              "graalvm",
+              "hacktoberfest",
+              "language-server",
+              "lsp",
+              "lsp-support",
+              "native-binaries",
+              "refactorings"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1150,12 +2016,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Editor Code Assistant (ECA) - AI pair programming capabilities agnostic of editor",
+            "homepage": "http://eca.dev",
             "id": 1002983772,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:36:36Z",
+            "open_issues": 67,
             "owner": "editor-code-assistant",
             "repo": "eca",
-            "stars": 977
+            "stars": 977,
+            "topics": [
+              "ai",
+              "ai-coding",
+              "chat",
+              "clojure",
+              "code-assistant",
+              "completion",
+              "editor",
+              "emacs",
+              "hacktoberfest",
+              "intellij",
+              "jsonrpc",
+              "llm",
+              "neovim",
+              "open-source",
+              "protocol",
+              "tooling",
+              "vscode"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1166,12 +2055,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pathom is a Clojure(script) engine for processing EQL requests.",
+            "homepage": "https://wilkerlucio.github.io/pathom/v2",
             "id": 98590961,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2024-01-09T00:27:52Z",
+            "open_issues": 13,
             "owner": "wilkerlucio",
             "repo": "pathom",
-            "stars": 631
+            "stars": 631,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1182,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live development environment for Clojurescript",
+            "homepage": null,
             "id": 139597857,
             "language": "Clojure",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T15:13:39Z",
+            "open_issues": 12,
             "owner": "nubank",
             "repo": "workspaces",
-            "stars": 521
+            "stars": 521,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1198,12 +2097,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integration testing framework using a state monad in the backend for building and composing flows",
+            "homepage": null,
             "id": 137817093,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2026-04-23T21:05:59Z",
+            "open_issues": 8,
             "owner": "nubank",
             "repo": "state-flow",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "nubank-stable"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1214,12 +2120,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Atom plugin to integrate with Socket-REPL over Clojure, ClojureScript, ClojureCLR, Joker, Babashka, Clojerl, Lumo and Plank",
+            "homepage": null,
             "id": 150498735,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2022-03-12T10:54:15Z",
+            "open_issues": 8,
             "owner": "mauricioszabo",
             "repo": "atom-chlorine",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "atom",
+              "clj",
+              "cljs",
+              "clojure",
+              "clojurescript",
+              "lumo",
+              "repl",
+              "shadow-cljs",
+              "socket-repl"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1236,12 +2157,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Flutter based game engine.",
+            "homepage": "https://flame-engine.org",
             "id": 107833072,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:09:25Z",
+            "open_issues": 92,
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10733
+            "stars": 10733,
+            "topics": [
+              "dart",
+              "flame",
+              "flutter",
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1252,12 +2187,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff such as SVG.",
+            "homepage": null,
             "id": 131659232,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2024-09-04T06:46:42Z",
+            "open_issues": 119,
             "owner": "bluefireteam",
             "repo": "photo_view",
-            "stars": 1997
+            "stars": 1997,
+            "topics": [
+              "flutter",
+              "gallery",
+              "hacktoberfest",
+              "images",
+              "photos",
+              "photoview",
+              "pinch-to-zoom",
+              "rotate",
+              "widget",
+              "zoom",
+              "zoomable"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1268,12 +2220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Este livro é para você 😉! Que deseja escrever os seus primeiros aplicativos com Flutter",
+            "homepage": "https://flutterparainiciantes.com.br",
             "id": 177531915,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-14T11:27:07Z",
+            "open_issues": 8,
             "owner": "flutterbootcamp",
             "repo": "flutter-para-iniciantes",
-            "stars": 314
+            "stars": 314,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1290,12 +2247,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, opinionated, minimalist web framework for Delphi",
+            "homepage": null,
             "id": 150807317,
             "language": "Pascal",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:19:35Z",
+            "open_issues": 4,
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1369
+            "stars": 1369,
+            "topics": [
+              "api",
+              "delphi",
+              "embarcadero",
+              "fpc",
+              "framework",
+              "freepascal",
+              "horse",
+              "lazarus",
+              "middlewares",
+              "minimalist",
+              "rest",
+              "restful",
+              "web",
+              "webservices"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1306,12 +2283,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON to DataSet and DataSet to JSON converter for Delphi and Lazarus (FPC)",
+            "homepage": null,
             "id": 187937022,
             "language": "Pascal",
+            "license": "MIT",
             "last_commit": "2026-08-03T18:02:23Z",
+            "open_issues": 2,
             "owner": "viniciussanchez",
             "repo": "dataset-serialize",
-            "stars": 743
+            "stars": 743,
+            "topics": [
+              "child-dataset",
+              "converter",
+              "dataset",
+              "dataset-serialize",
+              "delphi",
+              "embarcadero",
+              "export",
+              "fpc",
+              "freepascal",
+              "import",
+              "json",
+              "json-array",
+              "lazarus",
+              "nested",
+              "serialize",
+              "tojsonobject"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1322,12 +2321,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Dependency Manager for Delphi and Lazarus",
+            "homepage": "https://t.me/hashload",
             "id": 149203429,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:32:12Z",
+            "open_issues": 22,
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 626
+            "stars": 626,
+            "topics": [
+              "boss",
+              "delphi",
+              "dependency",
+              "dependency-manager",
+              "fpc",
+              "lazarus",
+              "manager",
+              "package",
+              "package-manager",
+              "packagemanager"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1344,12 +2359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple from zero to scale",
+            "homepage": "https://elixir-lang.org/",
             "id": 1234714,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:54:14Z",
+            "open_issues": 30,
             "owner": "elixir-lang",
             "repo": "elixir",
-            "stars": 26617
+            "stars": 26617,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1360,12 +2380,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Floki is a simple HTML parser that enables search for nodes using CSS selectors.",
+            "homepage": "https://hex.pm/packages/floki",
             "id": 26092799,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-06-16T01:17:29Z",
+            "open_issues": 24,
             "owner": "philss",
             "repo": "floki",
-            "stars": 2149
+            "stars": 2149,
+            "topics": [
+              "css-selector",
+              "css-selectors",
+              "elixir",
+              "erlang",
+              "fast-html",
+              "floki",
+              "html-parser",
+              "html5ever"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1382,12 +2416,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
+            "homepage": "https://taskfile.dev",
             "id": 83252983,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:33:04Z",
+            "open_issues": 197,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16068
+            "stars": 16068,
+            "topics": [
+              "build-tool",
+              "devops",
+              "go",
+              "make",
+              "makefile",
+              "task",
+              "task-runner",
+              "taskfile"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1398,12 +2446,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Release engineering, simplified",
+            "homepage": "https://goreleaser.com",
             "id": 77071454,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T06:15:02Z",
+            "open_issues": 17,
             "owner": "goreleaser",
             "repo": "goreleaser",
-            "stars": 16006
+            "stars": 16006,
+            "topics": [
+              "announcements",
+              "github-actions",
+              "hacktoberfest",
+              "package",
+              "release-automation",
+              "release-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1414,12 +2474,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💊 A git query language",
+            "homepage": null,
             "id": 16899487,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-14T14:32:41Z",
+            "open_issues": 10,
             "owner": "filhodanuvem",
             "repo": "gitql",
-            "stars": 6294
+            "stars": 6294,
+            "topics": [
+              "git",
+              "go",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1430,12 +2499,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source and extensible Platform as a Service (PaaS).",
+            "homepage": "https://tsuru.io",
             "id": 3631697,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T19:47:57Z",
+            "open_issues": 18,
             "owner": "tsuru",
             "repo": "tsuru",
-            "stars": 5307
+            "stars": 5307,
+            "topics": [
+              "containers",
+              "devops",
+              "docker",
+              "go",
+              "hacktoberfest",
+              "kubernetes",
+              "paas"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1446,12 +2528,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server",
+            "homepage": "https://www.prestd.com",
             "id": 74436942,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:31:10Z",
+            "open_issues": 153,
             "owner": "prest",
             "repo": "prest",
-            "stars": 4611
+            "stars": 4611,
+            "topics": [
+              "api",
+              "baas",
+              "backend",
+              "crud",
+              "database",
+              "docker",
+              "golang",
+              "instant-api",
+              "jwt",
+              "low-code",
+              "mcp",
+              "microservice",
+              "model-context-protocol",
+              "openapi",
+              "postgres",
+              "postgresql",
+              "rest-api",
+              "self-hosted",
+              "sql",
+              "timescaledb"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1462,12 +2570,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+            "homepage": null,
             "id": 125911051,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-22T20:40:01Z",
+            "open_issues": 67,
             "owner": "topfreegames",
             "repo": "pitaya",
-            "stars": 2825
+            "stars": 2825,
+            "topics": [
+              "android",
+              "game",
+              "game-framework",
+              "game-server",
+              "golang-application",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1478,12 +2598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go client for the Docker Engine API.",
+            "homepage": "https://pkg.go.dev/github.com/fsouza/go-dockerclient?tab=doc",
             "id": 9998516,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-24T04:05:23Z",
+            "open_issues": 15,
             "owner": "fsouza",
             "repo": "go-dockerclient",
-            "stars": 2244
+            "stars": 2244,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1494,12 +2619,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing",
+            "homepage": "https://shellhub.io",
             "id": 187078631,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:18:56Z",
+            "open_issues": 22,
             "owner": "shellhub-io",
             "repo": "shellhub",
-            "stars": 2063
+            "stars": 2063,
+            "topics": [
+              "cloud-computing",
+              "embedded",
+              "golang",
+              "hacktoberfest",
+              "iot",
+              "linux",
+              "raspberry-pi",
+              "shellhub",
+              "ssh",
+              "ssh-tunnel"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1510,12 +2651,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bar_chart: Code City metaphor for visualizing Go source code in 3D",
+            "homepage": "https://go-city.github.io",
             "id": 147082298,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-05T02:31:22Z",
+            "open_issues": 10,
             "owner": "rodrigo-brito",
             "repo": "gocity",
-            "stars": 1808
+            "stars": 1808,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "react",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1526,12 +2678,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🏢 Sua API web para consulta de informações do CNPJ da Receita Federal",
+            "homepage": "https://minhareceita.org",
             "id": 194408810,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-04T00:54:58Z",
+            "open_issues": 0,
             "owner": "cuducos",
             "repo": "minha-receita",
-            "stars": 1599
+            "stars": 1599,
+            "topics": [
+              "api",
+              "brasil",
+              "brazil",
+              "cnpj",
+              "hacktoberfest",
+              "receita-federal",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1542,12 +2707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rich testing for the Go language",
+            "homepage": null,
             "id": 18316312,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T19:30:57Z",
+            "open_issues": 60,
             "owner": "go-check",
             "repo": "check",
-            "stars": 694
+            "stars": 694,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1558,12 +2728,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source tool to deploy apps to Kubernetes clusters",
+            "homepage": null,
             "id": 2869673,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-25T02:14:13Z",
+            "open_issues": 23,
             "owner": "luizalabs",
             "repo": "teresa",
-            "stars": 556
+            "stars": 556,
+            "topics": [
+              "go",
+              "hacktoberfest",
+              "kubernetes",
+              "paas"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1574,12 +2754,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aprenda Go com desenvolvimento orientado a testes",
+            "homepage": "https://go.larien.dev",
             "id": 194465565,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:05:12Z",
+            "open_issues": 42,
             "owner": "larien",
             "repo": "aprenda-go-com-testes",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "aprenda-go",
+              "go",
+              "go-br",
+              "golang",
+              "learn-go",
+              "tdd",
+              "test-driven-development",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1590,12 +2784,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Function process via docker provider (serverless minimalist)",
+            "homepage": null,
             "id": 75209399,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-12-11T16:14:46Z",
+            "open_issues": 24,
             "owner": "gofn",
             "repo": "gofn",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "docker",
+              "faas",
+              "functions",
+              "functions-as-a-service",
+              "lambda",
+              "prometheus",
+              "serverless",
+              "service",
+              "swarm"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1612,12 +2821,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern proof language",
+            "homepage": "https://higherorderco.com",
             "id": 140790634,
             "language": "Haskell",
+            "license": "MIT",
             "last_commit": "2025-01-22T16:54:12Z",
+            "open_issues": 7,
             "owner": "HigherOrderCO",
             "repo": "Kind",
-            "stars": 3765
+            "stars": 3764,
+            "topics": [
+              "dependent-types",
+              "formality",
+              "functional-programming",
+              "lambda-calculus",
+              "moonad",
+              "proof-language",
+              "proof-languages",
+              "theorem-prover",
+              "type-theory"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1634,12 +2858,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BuildCLI is a command-line interface (CLI) tool for managing and automating common tasks in Java project development.",
+            "homepage": "https://buildcli.dev",
             "id": 878743356,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-03-27T23:16:49Z",
+            "open_issues": 160,
             "owner": "BuildCLI",
             "repo": "BuildCLI",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "ai",
+              "buildcli",
+              "cli",
+              "cli-app",
+              "command",
+              "commandline",
+              "java",
+              "java-application"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -1656,12 +2894,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📜 33 JavaScript concepts every developer should know.",
+            "homepage": "https://33jsconcepts.com/",
             "id": 147350463,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T14:51:44Z",
+            "open_issues": 4,
             "owner": "leonardomso",
             "repo": "33-js-concepts",
-            "stars": 66514
+            "stars": 66515,
+            "topics": [
+              "angular",
+              "concepts",
+              "es6",
+              "es6-javascript",
+              "hacktoberfest",
+              "javascript",
+              "javascript-closures",
+              "javascript-engines",
+              "javascript-programming",
+              "nodejs",
+              "primitive-types",
+              "programming",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1672,12 +2929,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Secure CommsOS™ for mission-critical operations",
+            "homepage": "https://rocket.chat/",
             "id": 35866694,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:42:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:43:33Z",
+            "open_issues": 4004,
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46041
+            "stars": 46042,
+            "topics": [
+              "chat",
+              "collaboration",
+              "foss",
+              "free",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mit",
+              "real-time",
+              "slack",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1688,12 +2962,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:",
+            "homepage": "https://clipboardjs.com",
             "id": 42751014,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T18:51:57Z",
+            "open_issues": 16,
             "owner": "zenorocha",
             "repo": "clipboard.js",
-            "stars": 34120
+            "stars": 34120,
+            "topics": [
+              "clipboard",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1704,12 +2986,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✍ It has never been so easy to document your things!",
+            "homepage": null,
             "id": 125596489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-21T04:28:57Z",
+            "open_issues": 110,
             "owner": "pedronauck",
             "repo": "docz",
-            "stars": 23581
+            "stars": 23581,
+            "topics": [
+              "design-system",
+              "docs",
+              "documentation",
+              "docz",
+              "gatsby",
+              "js",
+              "mdx",
+              "react",
+              "theme",
+              "ui",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1720,12 +3019,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible, plugin-oriented, HTML5-first media player for the web",
+            "homepage": "http://clappr.io",
             "id": 16844474,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T18:21:40Z",
+            "open_issues": 2,
             "owner": "clappr",
             "repo": "clappr",
-            "stars": 7493
+            "stars": 7493,
+            "topics": [
+              "clappr",
+              "dash",
+              "hls",
+              "html5-audio",
+              "html5-video",
+              "html5-video-player",
+              "javascript",
+              "mp4",
+              "player",
+              "video",
+              "video-player"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1736,12 +3052,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book",
+            "homepage": null,
             "id": 20100827,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T01:05:44Z",
+            "open_issues": 0,
             "owner": "loiane",
             "repo": "javascript-datastructures-algorithms",
-            "stars": 4871
+            "stars": 4871,
+            "topics": [
+              "algorithm",
+              "avl-tree",
+              "binary-tree",
+              "data-structures",
+              "deque",
+              "dictionary",
+              "dijkstra-algorithm",
+              "graph",
+              "graph-algorithms",
+              "javascript-algorithms",
+              "linked-list",
+              "priority-queue",
+              "queue",
+              "quicksort",
+              "set",
+              "sorting-algorithms",
+              "stack",
+              "tree",
+              "typescript",
+              "typescript-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1752,12 +3094,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Performance-focused API for React forms 🚀",
+            "homepage": "https://unform-rocketseat.vercel.app/",
             "id": 144657615,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-03T10:29:28Z",
+            "open_issues": 73,
             "owner": "unform",
             "repo": "unform",
-            "stars": 4403
+            "stars": 4403,
+            "topics": [
+              "form",
+              "forms",
+              "hacktoberfest",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1768,12 +3121,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React components library with Win95 UI",
+            "homepage": "https://react95.github.io/React95/",
             "id": 128528936,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T08:44:07Z",
+            "open_issues": 4,
             "owner": "React95",
             "repo": "React95",
-            "stars": 3813
+            "stars": 3813,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "react",
+              "storybook",
+              "vanilla-extract",
+              "vanilla-extract-css",
+              "windows95"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1784,12 +3150,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A javascript library that lets you add stories EVERYWHERE.",
+            "homepage": "https://ramon.codes/projects/zuck.js/",
             "id": 88405929,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-16T22:40:43Z",
+            "open_issues": 18,
             "owner": "ramonszo",
             "repo": "zuck.js",
-            "stars": 3725
+            "stars": 3725,
+            "topics": [
+              "facebook",
+              "instagram",
+              "media",
+              "modal",
+              "react",
+              "slider",
+              "snapchat",
+              "stories",
+              "story",
+              "viewer",
+              "whatsapp",
+              "zuck"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1800,12 +3184,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to demonstrate your code in action.",
+            "homepage": "https://gdemo.compilorama.com",
             "id": 140993987,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-26T22:37:46Z",
+            "open_issues": 15,
             "owner": "glorious-codes",
             "repo": "glorious-demo",
-            "stars": 3397
+            "stars": 3397,
+            "topics": [
+              "animation",
+              "code",
+              "demo",
+              "editor",
+              "mac",
+              "snippet",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1816,12 +3213,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Job scheduling for Node.js with overlap prevention, distributed coordination, and background tasks. Zero dependencies.",
+            "homepage": "https://nodecron.com",
             "id": 51018902,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-08-19T13:02:43Z",
+            "open_issues": 4,
             "owner": "node-cron",
             "repo": "node-cron",
-            "stars": 3277
+            "stars": 3277,
+            "topics": [
+              "background-jobs",
+              "cron",
+              "cron-jobs",
+              "cron-syntax",
+              "distributed-cron",
+              "job-scheduling",
+              "node-cron",
+              "nodejs",
+              "overlap-prevention",
+              "scheduled-jobs",
+              "scheduled-tasks"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1832,12 +3246,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rabbit2: Fastest possible memoization library",
+            "homepage": "https://npm.im/fast-memoize",
             "id": 49277709,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-19T12:31:41Z",
+            "open_issues": 24,
             "owner": "caiogondim",
             "repo": "fast-memoize.js",
-            "stars": 2597
+            "stars": 2597,
+            "topics": [
+              "javascript",
+              "js",
+              "memoization"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1848,12 +3271,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS",
+            "homepage": "http://ellisonleao.github.io/sharer.js",
             "id": 48245342,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T14:13:56Z",
+            "open_issues": 1,
             "owner": "ellisonleao",
             "repo": "sharer.js",
-            "stars": 2093
+            "stars": 2093,
+            "topics": [
+              "facebook",
+              "hackernews",
+              "javascript",
+              "okru",
+              "pinterest",
+              "reddit",
+              "share-buttons",
+              "social-network",
+              "telegram",
+              "twitter",
+              "vanilla",
+              "vanilla-javascript",
+              "vanillajs",
+              "whatsapp"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1864,12 +3307,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.",
+            "homepage": null,
             "id": 132792753,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-25T06:45:42Z",
+            "open_issues": 87,
             "owner": "sveltejs",
             "repo": "svelte-preprocess",
-            "stars": 1797
+            "stars": 1797,
+            "topics": [
+              "preprocess",
+              "svelte",
+              "sveltejs",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1880,12 +3333,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utils library for specific Brazilian businesses",
+            "homepage": "https://brazilian-utils.com.br",
             "id": 136650000,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T13:53:43Z",
+            "open_issues": 10,
             "owner": "brazilian-utils",
             "repo": "javascript",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "boleto",
+              "brazilian",
+              "cep",
+              "cnpj",
+              "cpf",
+              "cumbucadev",
+              "email",
+              "estados",
+              "format",
+              "formatter",
+              "generator",
+              "gerador",
+              "inscricao-estadual",
+              "mask",
+              "phone",
+              "pis",
+              "processo-juridico",
+              "states",
+              "validador",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1896,12 +3375,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internationalization library for Svelte",
+            "homepage": null,
             "id": 142368540,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-21T08:20:04Z",
+            "open_issues": 74,
             "owner": "kaisermann",
             "repo": "svelte-i18n",
-            "stars": 1377
+            "stars": 1377,
+            "topics": [
+              "dictionary",
+              "hacktoberfest",
+              "i18n",
+              "internationalization",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1912,12 +3402,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.",
+            "homepage": "https://poku.io",
             "id": 756709451,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T13:46:12Z",
+            "open_issues": 2,
             "owner": "wellwelwel",
             "repo": "poku",
-            "stars": 1178
+            "stars": 1178,
+            "topics": [
+              "assert",
+              "assertion",
+              "bdd",
+              "bun",
+              "cross-platform",
+              "deno",
+              "dependency-free",
+              "e2e",
+              "e2e-testing",
+              "integration-testing",
+              "javascript",
+              "kill-port",
+              "nodejs",
+              "tdd",
+              "test-runner",
+              "testing",
+              "typescript",
+              "unit-testing",
+              "watch",
+              "zero-dependency"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1928,12 +3444,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.",
+            "homepage": "https://sidequestjs.com",
             "id": 1025208339,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T12:24:45Z",
+            "open_issues": 14,
             "owner": "sidequestjs",
             "repo": "sidequest",
-            "stars": 1012
+            "stars": 1012,
+            "topics": [
+              "background-jobs",
+              "bullmq-alternative",
+              "concurrency",
+              "cron",
+              "dashboard",
+              "distributed",
+              "job-queue",
+              "mongodb",
+              "mysql",
+              "no-redis",
+              "nodejs",
+              "pg-boss-alternative",
+              "postgresql",
+              "queue",
+              "redis-free",
+              "scheduler",
+              "sqlite",
+              "typescript",
+              "worker-threads"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1944,12 +3485,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-Driven Full Stack JavaScript Components",
+            "homepage": "https://nullstack.app",
             "id": 167901193,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-10T01:21:13Z",
+            "open_issues": 8,
             "owner": "nullstack",
             "repo": "nullstack",
-            "stars": 782
+            "stars": 782,
+            "topics": [
+              "backend",
+              "framework",
+              "frontend",
+              "fullstack",
+              "isomorphic",
+              "javascript",
+              "microservices",
+              "nullstack",
+              "spa",
+              "ssg",
+              "ssr",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1960,12 +3519,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ajax module in Vanilla JS",
+            "homepage": "https://www.npmjs.com/package/@fdaciuk/ajax",
             "id": 31797671,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-08T17:09:19Z",
+            "open_issues": 3,
             "owner": "fdaciuk",
             "repo": "ajax",
-            "stars": 742
+            "stars": 742,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1976,12 +3542,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Algorithms & Data Structures & Computer Science studies",
+            "homepage": "https://iamtk.co/tags/algorithms-and-data-structures",
             "id": 31350866,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-01-17T18:39:45Z",
+            "open_issues": 0,
             "owner": "imteekay",
             "repo": "algorithms",
-            "stars": 578
+            "stars": 578,
+            "topics": [
+              "algorithm",
+              "competitive-programming",
+              "computer-science",
+              "data-structures",
+              "javascript",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -1992,12 +3570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo para aprender NodeJS!",
+            "homepage": null,
             "id": 260602192,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-07-24T20:27:14Z",
+            "open_issues": 8,
             "owner": "anabastos",
             "repo": "node4noobs",
-            "stars": 486
+            "stars": 486,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2008,12 +3591,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream-based library for parsing and manipulating subtitle files",
+            "homepage": null,
             "id": 34575208,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-24T01:25:14Z",
+            "open_issues": 7,
             "owner": "gsantiago",
             "repo": "subtitle.js",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "captions",
+              "manipulation",
+              "parse",
+              "parser",
+              "srt",
+              "stream",
+              "stringify",
+              "subrip",
+              "subtitle",
+              "subtitles",
+              "vtt",
+              "webvtt"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2024,12 +3625,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple credit card validation library in JavaScript",
+            "homepage": "http://contaazul.github.io/creditcard.js/",
             "id": 50360688,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T18:22:40Z",
+            "open_issues": 6,
             "owner": "ContaAzul",
             "repo": "creditcard.js",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "credit-card",
+              "javascript",
+              "nodejs",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2040,12 +3651,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamically load a svelte component",
+            "homepage": null,
             "id": 137829555,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2023-03-07T13:35:09Z",
+            "open_issues": 15,
             "owner": "kaisermann",
             "repo": "svelte-loadable",
-            "stars": 321
+            "stars": 321,
+            "topics": [
+              "code-splitting",
+              "dynamic-import",
+              "loadable-components",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2056,12 +3677,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: A simple boilerplate for creating statics PWA using Webpack, Pug, PostCSS and CSS Modules",
+            "homepage": null,
             "id": 33572182,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-01T08:35:36Z",
+            "open_issues": 10,
             "owner": "felipefialho",
             "repo": "kratos-boilerplate",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "badge",
+              "boilerplate",
+              "css",
+              "css-modules",
+              "cssmodules",
+              "es6",
+              "javascript",
+              "kratos",
+              "kratos-boilerplate",
+              "postcss",
+              "pug",
+              "sass",
+              "webpack",
+              "yeoman"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2072,12 +3713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 105943626,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-27T17:48:04Z",
+            "open_issues": 27,
             "owner": "zehfernandes",
             "repo": "react-native-3dcube-navigation",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2088,12 +3734,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced library for writing numbers in words (in Portuguese).",
+            "homepage": "https://extenso.js.org",
             "id": 47405950,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T00:47:51Z",
+            "open_issues": 0,
             "owner": "lusofonia",
             "repo": "extenso.js",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "biblioteca",
+              "brazilian-portuguese",
+              "extenso",
+              "human-readable-numbers",
+              "i18n",
+              "javascript",
+              "number-formatting",
+              "number-to-text",
+              "number-to-words",
+              "numero",
+              "numero-em-palavras",
+              "numero-por-extenso",
+              "numeros-por-extenso",
+              "por-extenso",
+              "porextenso",
+              "portuguese",
+              "text-conversion",
+              "word-conversion"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2104,12 +3774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vamos transformar o Brasil em uma API?",
+            "homepage": null,
             "id": 313136387,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-15T22:34:41Z",
+            "open_issues": 0,
             "owner": "filipedeschamps",
             "repo": "BrasilAPI",
-            "stars": 223
+            "stars": 223,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2120,12 +3795,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A responsive 8-point grid system layout for React using styled-components ",
+            "homepage": "https://awesome-styled-grid.netlify.app/",
             "id": 148913149,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-12T01:15:59Z",
+            "open_issues": 7,
             "owner": "santosfrancisco",
             "repo": "react-awesome-styled-grid",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "8pt-grid",
+              "grid",
+              "grid-layout",
+              "grid-system",
+              "mobile-first",
+              "react",
+              "react-grid",
+              "reactjs",
+              "responsive",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2136,12 +3827,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate to create presentations using Reveal.JS, Gulp, Stylus and more.",
+            "homepage": null,
             "id": 32657824,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-26T18:53:05Z",
+            "open_issues": 40,
             "owner": "Qualy-org",
             "repo": "qualy-presenter",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2152,12 +3848,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS/TS Lorem Ipsum generator",
+            "homepage": "http://mussumipsum.com",
             "id": 33903010,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-01T17:13:13Z",
+            "open_issues": 0,
             "owner": "diegofelipece",
             "repo": "mussum-ipsum",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "dummy-text",
+              "javascript",
+              "lorem-ipsum",
+              "lorem-ipsum-generator",
+              "mussum-ipsum",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2168,12 +3876,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A filter for bad words (in Portuguese).",
+            "homepage": "https://piii.js.org",
             "id": 59914583,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-10T17:53:56Z",
+            "open_issues": 1,
             "owner": "lusofonia",
             "repo": "piii.js",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "bad-word",
+              "filter",
+              "portuguese"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2184,12 +3901,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue.js html/page title manager",
+            "homepage": "https://vinicius73.github.io/vue-page-title/",
             "id": 138427044,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-03T17:49:08Z",
+            "open_issues": 16,
             "owner": "vinicius73",
             "repo": "vue-page-title",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "document",
+              "head",
+              "html",
+              "meta",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2200,12 +3928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Busca por CEP integrado diretamente aos serviços dos Correios, ViaCEP e outros (Node.js e Browser)",
+            "homepage": null,
             "id": 313133649,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-15T22:31:14Z",
+            "open_issues": 1,
             "owner": "filipedeschamps",
             "repo": "cep-promise",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2222,12 +3955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html",
+            "homepage": "https://lua.org",
             "id": 5805256,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-28T12:38:45Z",
+            "open_issues": 0,
             "owner": "lua",
             "repo": "lua",
-            "stars": 10259
+            "stars": 10260,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2238,12 +3976,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LuaRocks is the package manager for the Lua programming language.",
+            "homepage": "https://luarocks.org",
             "id": 571621,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-16T21:47:37Z",
+            "open_issues": 244,
             "owner": "luarocks",
             "repo": "luarocks",
-            "stars": 3725
+            "stars": 3725,
+            "topics": [
+              "lua",
+              "lua-modules",
+              "luajit",
+              "luarocks",
+              "package-management",
+              "package-manager"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2254,12 +4004,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The compiler for Teal, a typed dialect of Lua",
+            "homepage": "https://teal-language.org",
             "id": 168815289,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:10:33Z",
+            "open_issues": 133,
             "owner": "teal-language",
             "repo": "tl",
-            "stars": 2815
+            "stars": 2815,
+            "topics": [
+              "compiler",
+              "lua",
+              "teal",
+              "type-checking"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2276,12 +4036,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most awesome validation engine ever created for PHP",
+            "homepage": "https://respect-validation.readthedocs.io",
             "id": 931033,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:18:50Z",
+            "open_issues": 12,
             "owner": "Respect",
             "repo": "Validation",
-            "stars": 6028
+            "stars": 6028,
+            "topics": [
+              "components",
+              "fluent-interface",
+              "php",
+              "standalone",
+              "validation",
+              "validation-engine",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2292,12 +4065,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use WordPress backend with Laravel or any PHP application",
+            "homepage": null,
             "id": 10728912,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-03-19T14:09:00Z",
+            "open_issues": 109,
             "owner": "corcel",
             "repo": "corcel",
-            "stars": 4776
+            "stars": 4776,
+            "topics": [
+              "corcel",
+              "eloquent",
+              "hacktoberfest",
+              "laravel",
+              "mvc",
+              "php",
+              "shortcode",
+              "taxonomies",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2308,12 +4096,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⚡ Flat-files and plain-old PHP functions rockin'on as a set of general purpose high-level abstractions.",
+            "homepage": "https://siler.leocavalcante.dev",
             "id": 75350712,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-02-13T14:04:09Z",
+            "open_issues": 28,
             "owner": "leocavalcante",
             "repo": "siler",
-            "stars": 1109
+            "stars": 1109,
+            "topics": [
+              "flat-files",
+              "functional",
+              "graphql",
+              "hacktoberfest",
+              "http",
+              "http2",
+              "library",
+              "micro-framework",
+              "php",
+              "psalm",
+              "psr-11",
+              "psr-15",
+              "psr-2",
+              "psr-4",
+              "psr-7",
+              "routing",
+              "siler",
+              "swoole",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2324,12 +4137,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Php Debugger to run in terminal to debug your code easily.",
+            "homepage": null,
             "id": 83150621,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2023-04-19T21:15:32Z",
+            "open_issues": 6,
             "owner": "renatocassino",
             "repo": "dephpugger",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "breakpoint",
+              "debugger",
+              "php",
+              "xdebug",
+              "xdebugclient"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2346,12 +4170,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configuration Management for Python ⚙",
+            "homepage": "https://dynaconf.com",
             "id": 40736676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T17:24:00Z",
+            "open_issues": 167,
             "owner": "dynaconf",
             "repo": "dynaconf",
-            "stars": 4327
+            "stars": 4327,
+            "topics": [
+              "12factorapp",
+              "app-config",
+              "config",
+              "configuration",
+              "configuration-management",
+              "django",
+              "django-configuration",
+              "django-extension",
+              "dynaconf",
+              "environment-configuration",
+              "environment-variables",
+              "fastapi",
+              "flask",
+              "flask-configuration",
+              "flask-extension",
+              "hacktoberfest",
+              "python",
+              "settings",
+              "vault",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2362,12 +4212,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hook and simulate global keyboard events on Windows and Linux.",
+            "homepage": null,
             "id": 9923468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-10T00:17:11Z",
+            "open_issues": 414,
             "owner": "boppreh",
             "repo": "keyboard",
-            "stars": 3963
+            "stars": 3963,
+            "topics": [
+              "callback",
+              "hotkey",
+              "keyboard-events",
+              "keyboard-hooks",
+              "keyboard-state",
+              "python",
+              "register-hotkey",
+              "scancode"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2378,12 +4242,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strict separation of config from code.",
+            "homepage": null,
             "id": 17161217,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-28T20:56:27Z",
+            "open_issues": 22,
             "owner": "HBNetwork",
             "repo": "python-decouple",
-            "stars": 3037
+            "stars": 3037,
+            "topics": [
+              "configuration-files",
+              "environment-variables",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2394,12 +4267,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "splinter - python test framework for web applications ",
+            "homepage": "http://splinter.readthedocs.org/en/stable/index.html",
             "id": 921367,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-16T15:08:24Z",
+            "open_issues": 58,
             "owner": "cobrateam",
             "repo": "splinter",
-            "stars": 2753
+            "stars": 2753,
+            "topics": [
+              "automation",
+              "hacktoberfest",
+              "python",
+              "selenium",
+              "webdriver"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2410,12 +4294,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Useful extensions to the standard Python datetime features",
+            "homepage": null,
             "id": 26876372,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-19T23:50:16Z",
+            "open_issues": 476,
             "owner": "dateutil",
             "repo": "dateutil",
-            "stars": 2631
+            "stars": 2631,
+            "topics": [
+              "datetime",
+              "library",
+              "parsing",
+              "python",
+              "time",
+              "timezones"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2426,12 +4322,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Django 5, React, Tailwind 4 with Python 3 and Webpack project boilerplate",
+            "homepage": null,
             "id": 63726409,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-04T15:46:01Z",
+            "open_issues": 20,
             "owner": "vintasoftware",
             "repo": "django-react-boilerplate",
-            "stars": 2271
+            "stars": 2271,
+            "topics": [
+              "celery",
+              "django",
+              "pnpm",
+              "python",
+              "react",
+              "tailwind",
+              "tailwindcss-v4",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2442,12 +4353,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intercept HTTP requests at the Python socket level. Fakes the whole socket module",
+            "homepage": "https://httpretty.readthedocs.org",
             "id": 1303056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-09T14:37:11Z",
+            "open_issues": 130,
             "owner": "gabrielfalcao",
             "repo": "HTTPretty",
-            "stars": 2159
+            "stars": 2159,
+            "topics": [
+              "decorators",
+              "fakeweb",
+              "http",
+              "httpretty",
+              "mock",
+              "mocking",
+              "python",
+              "python2",
+              "streaming-response",
+              "tdd",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2458,12 +4387,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Integration Testing and Live Documentation for your API",
+            "homepage": "https://scanapi.dev",
             "id": 197915529,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:35:34Z",
+            "open_issues": 47,
             "owner": "scanapi",
             "repo": "scanapi",
-            "stars": 1580
+            "stars": 1580,
+            "topics": [
+              "api",
+              "autodoc",
+              "cumbucadev",
+              "integration-testing",
+              "json",
+              "pypi-packages",
+              "python-package",
+              "python3",
+              "rest-api",
+              "scanapi",
+              "testing",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2474,12 +4421,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fklearn: Functional Machine Learning",
+            "homepage": null,
             "id": 172931222,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-10T18:32:30Z",
+            "open_issues": 42,
             "owner": "nubank",
             "repo": "fklearn",
-            "stars": 1547
+            "stars": 1547,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "machine-learning",
+              "ml",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2490,12 +4448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tenant support for Django using PostgreSQL schemas.",
+            "homepage": "https://django-tenant-schemas.readthedocs.org/en/latest/",
             "id": 4761556,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-11T08:55:29Z",
+            "open_issues": 111,
             "owner": "bernardopires",
             "repo": "django-tenant-schemas",
-            "stars": 1521
+            "stars": 1521,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2506,12 +4469,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📰 Diários oficiais brasileiros acessíveis a todos     |     📰 Brazilian government gazettes, accessible to everyone.",
+            "homepage": "https://queridodiario.ok.org.br/",
             "id": 127598755,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-02T20:50:58Z",
+            "open_issues": 254,
             "owner": "okfn-brasil",
             "repo": "querido-diario",
-            "stars": 1373
+            "stars": 1373,
+            "topics": [
+              "civic-tech",
+              "data-science",
+              "digital-public-goods",
+              "dpg",
+              "governments-gazettes",
+              "govtech",
+              "hacktoberfest",
+              "open-data",
+              "politics",
+              "scraping",
+              "sdg-16",
+              "spider"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2522,12 +4503,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behavior-driven-development tool for python, inspired by Cucumber for Ruby ⛺",
+            "homepage": "http://lettuce.it",
             "id": 577245,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-29T05:50:58Z",
+            "open_issues": 101,
             "owner": "gabrielfalcao",
             "repo": "lettuce",
-            "stars": 1276
+            "stars": 1276,
+            "topics": [
+              "bdd",
+              "behavior-driven-development",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2538,12 +4528,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Acesse seus extratos do Nubank pelo Python",
+            "homepage": null,
             "id": 94806442,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-15T00:42:44Z",
+            "open_issues": 6,
             "owner": "andreroggeri",
             "repo": "pynubank",
-            "stars": 1197
+            "stars": 1197,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2554,12 +4549,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A common, beautiful interface to tabular data, no matter the format",
+            "homepage": null,
             "id": 19522728,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-08T13:54:25Z",
+            "open_issues": 160,
             "owner": "turicas",
             "repo": "rows",
-            "stars": 886
+            "stars": 886,
+            "topics": [
+              "convert-data",
+              "csv",
+              "data",
+              "data-science",
+              "excel",
+              "hacktoberfest",
+              "python",
+              "table",
+              "tabular-data",
+              "xls",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2570,12 +4582,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests",
+            "homepage": null,
             "id": 233464042,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-25T15:58:56Z",
+            "open_issues": 1,
             "owner": "arthurhenrique",
             "repo": "cookiecutter-fastapi",
-            "stars": 706
+            "stars": 706,
+            "topics": [
+              "ai",
+              "black",
+              "boilerplate",
+              "cli",
+              "cookiecutter",
+              "cookiecutter-fastapi",
+              "deep-learning",
+              "docker",
+              "fastapi",
+              "fastapi-boilerplate",
+              "hacktoberfest",
+              "llm",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "neural-network",
+              "openai",
+              "python",
+              "uv"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2586,12 +4623,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sophisticated automated test library and runner",
+            "homepage": "https://sure.readthedocs.io",
             "id": 705692,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-01T23:51:09Z",
+            "open_issues": 25,
             "owner": "gabrielfalcao",
             "repo": "sure",
-            "stars": 700
+            "stars": 700,
+            "topics": [
+              "bdd",
+              "behavior-driven-development",
+              "python3",
+              "software-craftsmanship",
+              "tdd",
+              "test",
+              "test-automation",
+              "test-driven-development"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2602,12 +4653,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML minifier for Python frameworks (not only Django, despite the name).",
+            "homepage": "http://pypi.python.org/pypi/django-htmlmin",
             "id": 1738549,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-01-12T16:02:05Z",
+            "open_issues": 55,
             "owner": "cobrateam",
             "repo": "django-htmlmin",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2618,12 +4676,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Biblioteca de utilitários projetada para validar, gerar e manipular dados de acordo com as particularidades do Brasil 🇧🇷",
+            "homepage": "https://pypi.python.org/pypi/brutils",
             "id": 78506265,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:03:53Z",
+            "open_issues": 7,
             "owner": "brazilian-utils",
             "repo": "python",
-            "stars": 520
+            "stars": 520,
+            "topics": [
+              "brazil",
+              "cnpj",
+              "cpf",
+              "cumbucadev",
+              "email",
+              "hacktoberfest",
+              "pip",
+              "pis",
+              "placa-de-carro",
+              "processo-juridico",
+              "python",
+              "tituloeleitor",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2634,12 +4711,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrate AI Assistants with Django to build intelligent applications",
+            "homepage": "https://django-ai.com",
             "id": 802174871,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-23T19:25:02Z",
+            "open_issues": 30,
             "owner": "vintasoftware",
             "repo": "django-ai-assistant",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-assistant",
+              "chatgpt",
+              "django",
+              "gpt",
+              "langchain",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2650,12 +4741,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A extensible library for Settings/Code separation",
+            "homepage": "https://pypi.python.org/pypi/prettyconf",
             "id": 33275450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T22:08:08Z",
+            "open_issues": 0,
             "owner": "osantana",
             "repo": "prettyconf",
-            "stars": 181
+            "stars": 181,
+            "topics": [
+              "configuration",
+              "mit",
+              "python",
+              "python-2",
+              "python-3",
+              "twelve-factor"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2666,12 +4769,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "💵 Tool for Brazilian Reais monetary adjustment/correction",
+            "homepage": "https://calculadora-do-cidadao.readthedocs.io",
             "id": 230978941,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-26T16:46:49Z",
+            "open_issues": 1,
             "owner": "cuducos",
             "repo": "calculadora-do-cidadao",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "brasil",
+              "brazil",
+              "data-analysis",
+              "hacktoberfest",
+              "monetary",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2682,12 +4797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "isk-daemon is an open source standalone server and library capable of adding content-based (visual) image searching to any image related website or software.\n\n",
+            "homepage": null,
             "id": 2714884,
             "language": "HTML",
+            "license": null,
             "last_commit": "2015-02-18T13:30:40Z",
+            "open_issues": 46,
             "owner": "ricardocabral",
             "repo": "iskdaemon",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2704,12 +4824,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible authentication solution for Rails with Warden.",
+            "homepage": null,
             "id": 308770,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T17:32:32Z",
+            "open_issues": 231,
             "owner": "heartcombo",
             "repo": "devise",
-            "stars": 24359
+            "stars": 24359,
+            "topics": [
+              "authentication",
+              "devise",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2720,12 +4850,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+            "homepage": null,
             "id": 451035,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-01T23:20:59Z",
+            "open_issues": 37,
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8229
+            "stars": 8229,
+            "topics": [
+              "dsl",
+              "form-builder",
+              "rails",
+              "rails-helper",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2736,12 +4877,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Do some browser detection with Ruby. Includes ActionController integration.",
+            "homepage": null,
             "id": 779276,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-06-10T23:37:39Z",
+            "open_issues": 18,
             "owner": "fnando",
             "repo": "browser",
-            "stars": 2499
+            "stars": 2499,
+            "topics": [
+              "browser-detection",
+              "rails",
+              "ruby",
+              "user-agent"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2752,12 +4903,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LXC provider for Vagrant",
+            "homepage": null,
             "id": 8408825,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-11-24T23:41:12Z",
+            "open_issues": 1,
             "owner": "fgrehm",
             "repo": "vagrant-lxc",
-            "stars": 1192
+            "stars": 1192,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2774,12 +4930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A massively parallel, high-level programming language",
+            "homepage": "https://higherorderco.com",
             "id": 684776900,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T19:51:01Z",
+            "open_issues": 109,
             "owner": "HigherOrderCO",
             "repo": "Bend",
-            "stars": 19809
+            "stars": 19808,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2790,12 +4951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A massively parallel, optimal functional runtime in Rust",
+            "homepage": "https://higherorderco.com",
             "id": 443977141,
             "language": "Cuda",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-21T14:33:04Z",
+            "open_issues": 56,
             "owner": "HigherOrderCO",
             "repo": "HVM2",
-            "stars": 11341
+            "stars": 11340,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2806,12 +4972,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.",
+            "homepage": "https://rioterm.com",
             "id": 546129875,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:52:28Z",
+            "open_issues": 285,
             "owner": "raphamorim",
             "repo": "rio",
-            "stars": 7417
+            "stars": 7417,
+            "topics": [
+              "gpu-acceleration",
+              "metal",
+              "rio",
+              "rio-terminal",
+              "rust",
+              "rust-lang",
+              "terminal",
+              "terminal-emulator",
+              "terminal-emulators",
+              "terminal-ui",
+              "vte",
+              "vulkan",
+              "wgpu"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2822,12 +5007,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference guide for the Pythonista in the process of becoming a Rustacean",
+            "homepage": "https://rochacbruno.github.io/py2rs/",
             "id": 112285291,
             "language": "CSS",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-22T16:41:05Z",
+            "open_issues": 10,
             "owner": "rochacbruno",
             "repo": "py2rs",
-            "stars": 2087
+            "stars": 2087,
+            "topics": [
+              "cheatsheet",
+              "examples",
+              "guide",
+              "hacktoberfest",
+              "learning",
+              "python",
+              "pythonista",
+              "reference",
+              "rust",
+              "rustacean"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2838,12 +5039,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available",
+            "homepage": "https://kftray.app/",
             "id": 723535263,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-29T00:58:24Z",
+            "open_issues": 19,
             "owner": "hcavarsan",
             "repo": "kftray",
-            "stars": 1555
+            "stars": 1555,
+            "topics": [
+              "developer-tools",
+              "devops",
+              "devops-tools",
+              "k8s",
+              "kftray",
+              "kubectl",
+              "kubernetes",
+              "port-forward",
+              "port-forwarding",
+              "proxy",
+              "ratatui",
+              "rust",
+              "tauri",
+              "terminal",
+              "tray",
+              "tui",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2854,12 +5078,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown makes sites - A Static Site Generator for Blogs",
+            "homepage": "https://marmite.blog/",
             "id": 872582333,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-15T08:13:25Z",
+            "open_issues": 3,
             "owner": "rochacbruno",
             "repo": "marmite",
-            "stars": 872
+            "stars": 872,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "cms",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "markdown",
+              "rust",
+              "rustlang",
+              "site",
+              "ssg",
+              "static",
+              "static-blog-generator",
+              "static-site",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2876,12 +5120,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.",
+            "homepage": "https://zimfw.sh",
             "id": 48021097,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:24:03Z",
+            "open_issues": 24,
             "owner": "zimfw",
             "repo": "zimfw",
-            "stars": 4677
+            "stars": 4677,
+            "topics": [
+              "framework",
+              "zim",
+              "zimfw",
+              "zsh",
+              "zsh-configuration",
+              "zsh-plugin-manager"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2892,12 +5148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin",
+            "homepage": null,
             "id": 21528995,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2024-07-29T11:38:47Z",
+            "open_issues": 93,
             "owner": "caiogondim",
             "repo": "bullet-train.zsh",
-            "stars": 2839
+            "stars": 2839,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -2914,12 +5175,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit with accessible components, styles, and examples for your next web app",
+            "homepage": "https://ariakit.com",
             "id": 104133653,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T00:36:34Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:25:41Z",
+            "open_issues": 43,
             "owner": "ariakit",
             "repo": "ariakit",
-            "stars": 8607
+            "stars": 8607,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "accessible",
+              "aria",
+              "ariakit",
+              "components",
+              "css",
+              "react",
+              "reactjs",
+              "tailwindcss",
+              "wai-aria"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2930,12 +5208,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.",
+            "homepage": "https://www.npmjs.com/package/concurrently",
             "id": 30381877,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T10:03:34Z",
+            "open_issues": 60,
             "owner": "open-cli-tools",
             "repo": "concurrently",
-            "stars": 7842
+            "stars": 7842,
+            "topics": [
+              "cli",
+              "command-line",
+              "concurrently",
+              "parallel",
+              "process",
+              "spawn"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2946,12 +5236,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project Manager Extension for Visual Studio Code",
+            "homepage": "https://alefragnani.github.io/vscode-project-manager/",
             "id": 49168827,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T16:43:16Z",
+            "open_issues": 45,
             "owner": "alefragnani",
             "repo": "vscode-project-manager",
-            "stars": 2661
+            "stars": 2662,
+            "topics": [
+              "project-management",
+              "typescript",
+              "visual-studio-code",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2962,12 +5263,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Typescript + Node.js lightweight framework for quick building scalable, easy to read and maintain, server-side applications 🐎",
+            "homepage": "https://expresso-ts.com/",
             "id": 349918272,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:18:24Z",
+            "open_issues": 14,
             "owner": "expressots",
             "repo": "expressots",
-            "stars": 1848
+            "stars": 1848,
+            "topics": [
+              "clean-architecture",
+              "expressots",
+              "hacktoberfest",
+              "microservices",
+              "nodejs",
+              "typescript",
+              "typescript-framework"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2978,12 +5292,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of beautiful and accessible components for Angular based in Shadcn/ui and Ng-zorro. Fully open source and free ❤️",
+            "homepage": "https://www.zardui.com",
             "id": 943014751,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:45:34Z",
+            "open_issues": 9,
             "owner": "zard-ui",
             "repo": "zardui",
-            "stars": 1137
+            "stars": 1137,
+            "topics": [
+              "angular",
+              "ng-zorro",
+              "shadcn-ui",
+              "tailwindcss",
+              "typescript",
+              "ui",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -2994,12 +5321,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BOT - WhatsApp Web in TypeScript",
+            "homepage": null,
             "id": 264349234,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-14T05:57:45Z",
+            "open_issues": 12,
             "owner": "caioagiani",
             "repo": "whatsapp-bot",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "api",
+              "automation",
+              "backend",
+              "bot",
+              "bot-api",
+              "bot-framework",
+              "javascript",
+              "nodejs",
+              "puppeteer",
+              "typescript",
+              "whatsapp",
+              "whatsapp-ai",
+              "whatsapp-api",
+              "whatsapp-automation",
+              "whatsapp-bot",
+              "whatsapp-chat",
+              "whatsapp-multi-device",
+              "whatsapp-web",
+              "whatsapp-web-api"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -3016,12 +5368,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim-fork focused on extensibility and usability",
+            "homepage": "https://neovim.io",
             "id": 16408992,
             "language": "Vim Script",
-            "last_commit": "2026-08-29T00:50:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:22:51Z",
+            "open_issues": 1867,
             "owner": "neovim",
             "repo": "neovim",
-            "stars": 102000
+            "stars": 102001,
+            "topics": [
+              "api",
+              "c",
+              "lua",
+              "neovim",
+              "nvim",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -3032,12 +5397,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.",
+            "homepage": "https://vim-bootstrap.com/",
             "id": 20204223,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-28T19:43:29Z",
+            "open_issues": 29,
             "owner": "editor-bootstrap",
             "repo": "vim-bootstrap",
-            "stars": 2089
+            "stars": 2089,
+            "topics": [
+              "bootstrap",
+              "dotfiles",
+              "editor-bootstrap",
+              "hackertoberfest",
+              "hacktoberfest",
+              "neovim",
+              "nvim",
+              "starter-template",
+              "vim",
+              "vim-bootstrap",
+              "vim-configuration",
+              "vimrc",
+              "vimrc-configuration"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -3054,12 +5438,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":beer: Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) para o GitHub Discussions",
+            "homepage": null,
             "id": 50837290,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-20T12:25:08Z",
+            "open_issues": 0,
             "owner": "frontendbr",
             "repo": "forum",
-            "stars": 4238
+            "stars": 4238,
+            "topics": [
+              "discussion",
+              "forum",
+              "frontend"
+            ]
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         },
@@ -3070,12 +5463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇺 The best open source projects that were made and mainly contributed by Russian developers",
+            "homepage": null,
             "id": 289306911,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-21T15:46:45Z",
+            "open_issues": 0,
             "owner": "gaearon",
             "repo": "awesome-made-by-russians",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:09:17.370Z"
         }
@@ -3084,15 +5482,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:09:17.370Z",
+    "last_updated": "2026-08-29T04:29:02.525Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
+      "homepage": null,
       "id": 289337987,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-08-13T19:39:00Z",
+      "open_issues": 6,
       "owner": "felipefialho",
       "repo": "awesome-made-by-brazilians",
-      "stars": 1871
+      "stars": 1871,
+      "topics": [
+        "awesome",
+        "awesome-brazil",
+        "awesome-opensource",
+        "awesomebrazil",
+        "css",
+        "javascript",
+        "made-by-brazilians",
+        "programming-language",
+        "stars"
+      ]
     },
     "original_repository_sha": "854c096cff44dc9ca3f34a9b2377b1bab134d2c4",
     "enhanced_repository": "enhansome/enhansome-made-by-brazilians",
