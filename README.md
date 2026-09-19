@@ -34,22 +34,22 @@
 
 ### Apps, Softwares & Tools
 
-* **[LangFlow](https://github.com/langflow-ai/langflow) ⭐ 154,980 | 🐛 1,087 | 🌐 Python | 📅 2026-09-18** by [langflow-ai](https://github.com/langflow-ai)\
+* **[LangFlow](https://github.com/langflow-ai/langflow) ⭐ 155,012 | 🐛 1,110 | 🌐 Python | 📅 2026-09-19** by [langflow-ai](https://github.com/langflow-ai)\
   Langflow é um construtor de aplicações de low-code para aplicações de RAG e IA multiagente. É baseado em Python e compatível com qualquer modelo, API ou banco de dados.
   ![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square)
   [![license](https://img.shields.io/github/license/langflow-ai/langflow.svg)](/LICENSE)
 
-* **[Dracula Theme](https://github.com/dracula/dracula-theme) ⭐ 23,583 | 🐛 12 | 📅 2026-09-01** by [zenorocha](https://github.com/zenorocha)\
+* **[Dracula Theme](https://github.com/dracula/dracula-theme) ⭐ 23,582 | 🐛 12 | 📅 2026-09-01** by [zenorocha](https://github.com/zenorocha)\
   A dark theme for Atom, Alfred, Emacs, Highlight.js, Hyper, iTerm, JetBrains, Pygments, Slack, Sublime Text, TextMate, Terminal.app, Vim, Xcode, Zsh and many more\
   ![Stars](https://img.shields.io/github/stars/dracula/dracula-theme.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/dracula/dracula-theme.svg)](/LICENSE)
 
-* **[DevHub](https://github.com/devhubapp/devhub) ⭐ 10,130 | 🐛 104 | 🌐 TypeScript | 📅 2024-09-07** by [brunolemos](https://github.com/brunolemos)\
+* **[DevHub](https://github.com/devhubapp/devhub) ⭐ 10,129 | 🐛 104 | 🌐 TypeScript | 📅 2024-09-07** by [brunolemos](https://github.com/brunolemos)\
   GitHub Notifications manager for Desktop and Mobile (99% code sharing using react-native-web)\
   ![Stars](https://img.shields.io/github/stars/devhubapp/devhub?style=flat-square)
   [![license](https://img.shields.io/github/license/devhubapp/devhub.svg)](/LICENSE)
 
-* **[WWDC](https://github.com/insidegui/WWDC) ⭐ 8,750 | 🐛 23 | 🌐 Swift | 📅 2026-06-17** by [insidegui](https://github.com/insidegui)\
+* **[WWDC](https://github.com/insidegui/WWDC) ⭐ 8,749 | 🐛 23 | 🌐 Swift | 📅 2026-06-17** by [insidegui](https://github.com/insidegui)\
   The unofficial WWDC app for macOS\
   ![Stars](https://img.shields.io/github/stars/insidegui/WWDC.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/insidegui/WWDC.svg)](/LICENSE)
@@ -59,7 +59,7 @@
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/serenata-de-amor?style=flat-square)
   [![license](https://img.shields.io/github/license/okfn-brasil/serenata-de-amor.svg)](/LICENSE)
 
-* **[Securo](https://github.com/securo-finance/securo) ⭐ 3,588 | 🐛 236 | 🌐 Python | 📅 2026-09-18** by [tassionoronha](https://github.com/tassionoronha)\
+* **[Securo](https://github.com/securo-finance/securo) ⭐ 3,634 | 🐛 236 | 🌐 Python | 📅 2026-09-18** by [tassionoronha](https://github.com/tassionoronha)\
   Open-source personal finance manager. Self-hosted, privacy-first.\
   ![Stars](https://img.shields.io/github/stars/securo-finance/securo?style=flat-square)
   [![license](https://img.shields.io/github/license/securo-finance/securo.svg)](/LICENSE)
@@ -94,7 +94,7 @@
   ![Stars](https://img.shields.io/github/stars/rbardini/resumed?style=flat-square)
   [![license](https://img.shields.io/github/license/rbardini/resumed.svg)](/LICENSE)
 
-* **[FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) ⭐ 529 | 🐛 124 | 🌐 C++ | 📅 2026-01-05** by [Otacilio Maia](https://github.com/OtacilioN)\
+* **[FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms) ⭐ 528 | 🐛 124 | 🌐 C++ | 📅 2026-01-05** by [Otacilio Maia](https://github.com/OtacilioN)\
   A repository with a bunch of funny algorithms, beginners friendly\
   ![Stars](https://img.shields.io/github/stars/ReciHub/FunnyAlgorithms.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/ReciHub/FunnyAlgorithms.svg)](/LICENSE)
@@ -128,27 +128,27 @@
 
 ### Awesomes & Lists
 
-* **[awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,661 | 🐛 230 | 🌐 Go | 📅 2026-09-18** by [Avelino](https://github.com/avelino)\
+* **[awesome-go](https://github.com/avelino/awesome-go) ⭐ 184,784 | 🐛 230 | 🌐 Go | 📅 2026-09-18** by [Avelino](https://github.com/avelino)\
   A curated list of awesome Go frameworks, libraries and software\
   ![Stars](https://img.shields.io/github/stars/avelino/awesome-go.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/avelino/awesome-go.svg)](/LICENSE)
 
-* **[awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) ⭐ 20,521 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-17** by [birobirobiro](https://github.com/birobirobiro)\
+* **[awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) ⭐ 20,524 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-19** by [birobirobiro](https://github.com/birobirobiro)\
   A curated list of awesome things related to shadcn/ui
   ![Stars](https://img.shields.io/github/stars/birobirobiro/awesome-shadcn-ui?style=flat-square)
   [![license](https://img.shields.io/github/license/birobirobiro/awesome-shadcn-ui)](/LICENSE)
 
-* **[magictools](https://github.com/ellisonleao/magictools) ⭐ 17,327 | 🐛 15 | 🌐 Markdown | 📅 2026-09-14** by [ellisonleao](https://github.com/ellisonleao)\
+* **[magictools](https://github.com/ellisonleao/magictools) ⭐ 17,331 | 🐛 15 | 🌐 Markdown | 📅 2026-09-14** by [ellisonleao](https://github.com/ellisonleao)\
   A list of Game Development resources to make magic happen\
   ![Stars](https://img.shields.io/github/stars/ellisonleao/magictools.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/ellisonleao/magictools.svg)](/LICENSE)
 
-* **[frontend-challenges](https://github.com/felipefialho/frontend-challenges) ⭐ 15,019 | 🐛 2 | 📅 2024-05-14** by [felipefialho](https://github.com/felipefialho)\
+* **[frontend-challenges](https://github.com/felipefialho/frontend-challenges) ⭐ 15,018 | 🐛 2 | 📅 2024-05-14** by [felipefialho](https://github.com/felipefialho)\
   A lot of open-source's challenges of jobs to test your knowledge\
   ![Stars](https://img.shields.io/github/stars/felipefialho/frontend-challenges.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/felipefialho/frontend-challenges.svg)](/LICENSE)
 
-* **[backend-challenges](https://github.com/CollabCodeTech/backend-challenges) ⭐ 9,998 | 🐛 0 | 📅 2026-02-04** by [joviane](https://github.com/joviane), [CollabCodeTech](https://github.com/CollabCodeTech)\
+* **[backend-challenges](https://github.com/CollabCodeTech/backend-challenges) ⭐ 9,997 | 🐛 0 | 📅 2026-02-04** by [joviane](https://github.com/joviane), [CollabCodeTech](https://github.com/CollabCodeTech)\
   A public list of open-source challenges from jobs around the world\
   ![Stars](https://img.shields.io/github/stars/CollabCodeTech/backend-challenges.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/CollabCodeTech/backend-challenges.svg)](/LICENSE)
@@ -158,7 +158,7 @@
   ![Stars](https://img.shields.io/github/stars/davidsonfellipe/awesome-wpo.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/davidsonfellipe/awesome-wpo.svg)](/LICENSE)
 
-* **[awesome-mlops](https://github.com/kelvins/awesome-mlops) ⭐ 5,277 | 🐛 88 | 🌐 Python | 📅 2026-08-17** by [kelvins](https://github.com/kelvins)\
+* **[awesome-mlops](https://github.com/kelvins/awesome-mlops) ⭐ 5,277 | 🐛 89 | 🌐 Python | 📅 2026-08-17** by [kelvins](https://github.com/kelvins)\
   A curated list of awesome MLOps tools\
   ![Stars](https://img.shields.io/github/stars/kelvins/awesome-mlops.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/kelvins/awesome-mlops.svg)](/LICENSE)
@@ -173,7 +173,7 @@
   ![Stars](https://img.shields.io/github/stars/willianjusten/awesome-svg.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/willianjusten/awesome-svg.svg)](/LICENSE)
 
-* **[4noobs](https://github.com/he4rt/4noobs) ⭐ 4,388 | 🐛 4 | 📅 2026-09-05** by [He4rtDevs](https://github.com/he4rt)\
+* **[4noobs](https://github.com/he4rt/4noobs) ⭐ 4,387 | 🐛 4 | 📅 2026-09-05** by [He4rtDevs](https://github.com/he4rt)\
   List of repos with a Quick Start to a lot of programming languages, frameworks and tools for beginners\
   ![Stars](https://img.shields.io/github/stars/he4rt/4noobs?style=flat-square)
   [![license](https://img.shields.io/github/license/he4rt/4noobs.svg)](/LICENSE)
@@ -188,7 +188,7 @@
   ![Stars](https://img.shields.io/github/stars/brunopulis/awesome-a11y.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/brunopulis/awesome-a11y.svg)](/LICENSE)
 
-* **[awesome-canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,863 | 🐛 15 | 🌐 Markdown | 📅 2026-06-14** by [Raphael Amorim](https://github.com/raphamorim/)
+* **[awesome-canvas](https://github.com/raphamorim/awesome-canvas) ⭐ 1,864 | 🐛 15 | 🌐 Markdown | 📅 2026-06-14** by [Raphael Amorim](https://github.com/raphamorim/)
   A curated list of awesome HTML5 Canvas with examples, related articles and posts.
   ![Stars](https://img.shields.io/github/stars/raphamorim/awesome-canvas.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/raphamorim/awesome-canvas.svg)](/LICENSE)
@@ -203,7 +203,7 @@
   ![Stars](https://img.shields.io/github/stars/kelvins/Municipios-Brasileiros.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/kelvins/Municipios-Brasileiros.svg)](/LICENSE)
 
-* **[game-datasets](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,121 | 🐛 4 | 📅 2026-09-10** by [leomaurodesenv](https://github.com/leomaurodesenv)\
+* **[game-datasets](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,121 | 🐛 5 | 📅 2026-09-10** by [leomaurodesenv](https://github.com/leomaurodesenv)\
   A curated list of awesome game datasets, and tools to artificial intelligence in games\
   ![Stars](https://img.shields.io/github/stars/leomaurodesenv/game-datasets.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/leomaurodesenv/game-datasets.svg)](/LICENSE)
@@ -248,7 +248,7 @@
   ![Stars](https://img.shields.io/github/stars/compiladoras/women-teaching-tech?style=flat-square)
   [![license](https://img.shields.io/github/license/compiladoras/women-teaching-tech.svg)](/LICENSE)
 
-* **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) ⭐ 550 | 🐛 6 | 🌐 Python | 📅 2026-09-18** by [guibranco](https://github.com/guibranco)\
+* **[Bancos Brasileiros](https://github.com/guibranco/bancosBrasileiros) ⭐ 550 | 🐛 6 | 🌐 Python | 📅 2026-09-19** by [guibranco](https://github.com/guibranco)\
   A curated list of brazilian banks\
   ![Stars](https://img.shields.io/github/stars/guibranco/bancosBrasileiros.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/guibranco/bancosBrasileiros.svg)](/LICENSE)
@@ -284,14 +284,14 @@
 
 <a name="c"></a>
 
-* **[Bend](https://github.com/HigherOrderCO/Bend) ⭐ 21,380 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-18** by [VictorTaelin](https://github.com/VictorTaelin)\
+* **[Bend](https://github.com/HigherOrderCO/Bend) ⭐ 21,750 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-19** by [VictorTaelin](https://github.com/VictorTaelin)\
   A high-level, massively parallel programming language\
   ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
 
 ### C
 
-* **[ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,044 | 🐛 42 | 🌐 C | 📅 2026-06-18** by [leandromoreira](https://github.com/leandromoreira)\
+* **[ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,043 | 🐛 42 | 🌐 C | 📅 2026-06-18** by [leandromoreira](https://github.com/leandromoreira)\
   FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more\
   ![Stars](https://img.shields.io/github/stars/leandromoreira/ffmpeg-libav-tutorial?style=flat-square)
   [![license](https://img.shields.io/github/license/leandromoreira/ffmpeg-libav-tutorial.svg)](/LICENSE)
@@ -306,7 +306,7 @@
   ![Stars](https://img.shields.io/github/stars/hishamhm/htop.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/hishamhm/htop.svg)](/LICENSE)
 
-* **[HardInfo](https://github.com/lpereira/hardinfo) ⭐ 820 | 🐛 155 | 🌐 C | 📅 2026-09-06** by [lpereira](https://github.com/lpereira)\
+* **[HardInfo](https://github.com/lpereira/hardinfo) ⭐ 819 | 🐛 155 | 🌐 C | 📅 2026-09-06** by [lpereira](https://github.com/lpereira)\
   System profiler and benchmarking tool\
   ![Stars](https://img.shields.io/github/stars/lpereira/hardinfo.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/lpereira/hardinfo.svg)](/LICENSE)
@@ -344,13 +344,13 @@
 
 ### C++
 
-* **[matplotplusplus](https://github.com/alandefreitas/matplotplusplus) ⭐ 4,930 | 🐛 82 | 🌐 C++ | 📅 2026-04-02** by [ Avatar
+* **[matplotplusplus](https://github.com/alandefreitas/matplotplusplus) ⭐ 4,929 | 🐛 82 | 🌐 C++ | 📅 2026-04-02** by [ Avatar
   Alan de Freitas](https://github.com/alandefreitas)\
   Matplot++: A C++ Graphics Library for Data Visualization\
   ![Stars](https://img.shields.io/github/stars/alandefreitas/matplotplusplus.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/alandefreitas/matplotplusplus.svg)](/LICENSE)
 
-* **[pgModeler](https://github.com/pgmodeler/pgmodeler) ⭐ 3,597 | 🐛 285 | 🌐 C++ | 📅 2026-09-14** by [Raphael Araújo e Silva](https://github.com/rkhaotix)\
+* **[pgModeler](https://github.com/pgmodeler/pgmodeler) ⭐ 3,598 | 🐛 285 | 🌐 C++ | 📅 2026-09-14** by [Raphael Araújo e Silva](https://github.com/rkhaotix)\
   PostgreSQL Database Modeler - is an open source data modeling tool designed for PostgreSQL\
   ![Stars](https://img.shields.io/github/stars/pgmodeler/pgmodeler.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/pgmodeler/pgmodeler.svg)](/LICENSE)
@@ -365,7 +365,7 @@
   ![Stars](https://img.shields.io/github/stars/Dovyski/cvui.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/Dovyski/cvui.svg)](/LICENSE)
 
-* **[material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado) ⭐ 437 | 🐛 3 | 📅 2025-04-27** by [cppbrasil](https://github.com/cppbrasil)\
+* **[material-de-aprendizado](https://github.com/cppbrasil/material-de-aprendizado) ⭐ 438 | 🐛 3 | 📅 2025-04-27** by [cppbrasil](https://github.com/cppbrasil)\
   Material for C++, videos, tutorials, examples, books and etc.\
   ![Stars](https://img.shields.io/github/stars/cppbrasil/material-de-aprendizado.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/cppbrasil/material-de-aprendizado.svg)](/LICENSE)
@@ -384,7 +384,7 @@
 
 ### CSS
 
-* **[Milligram](https://github.com/milligram/milligram) ⭐ 10,218 | 🐛 126 | 🌐 HTML | 📅 2026-09-01** by [cjpatoilo](https://github.com/cjpatoilo)\
+* **[Milligram](https://github.com/milligram/milligram) ⭐ 10,217 | 🐛 126 | 🌐 HTML | 📅 2026-09-01** by [cjpatoilo](https://github.com/cjpatoilo)\
   A minimalist CSS framework\
   ![Stars](https://img.shields.io/github/stars/milligram/milligram.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/milligram/milligram.svg)](/LICENSE)
@@ -399,7 +399,7 @@
   ![Stars](https://img.shields.io/github/stars/raphaelfabeni/css-loader.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/raphaelfabeni/css-loader.svg)](/LICENSE)
 
-* **[CSS Components](https://github.com/felipefialho/css-components) ⭐ 690 | 🐛 5 | 🌐 HTML | 📅 2024-10-11** ny [felipefialho](https://github.com/felipefialho)\
+* **[CSS Components](https://github.com/felipefialho/css-components) ⭐ 691 | 🐛 5 | 🌐 HTML | 📅 2024-10-11** ny [felipefialho](https://github.com/felipefialho)\
   Using the power of CSS and without Javascript\
   ![Stars](https://img.shields.io/github/stars/felipefialho/css-components.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/felipefialho/css-components.svg)](/LICENSE)
@@ -428,7 +428,7 @@
   ![Stars](https://img.shields.io/github/stars/clojure-lsp/clojure-lsp.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/clojure-lsp/clojure-lsp.svg)](/LICENSE)
 
-* **[ECA](https://github.com/editor-code-assistant/eca) ⭐ 1,004 | 🐛 69 | 🌐 Clojure | 📅 2026-09-16** by [Eric Dallo](https://github.com/ericdallo)\
+* **[ECA](https://github.com/editor-code-assistant/eca) ⭐ 1,005 | 🐛 69 | 🌐 Clojure | 📅 2026-09-16** by [Eric Dallo](https://github.com/ericdallo)\
   A free and open source editor-agnostic AI pair programming tool, inspired by the LSP protocol\
   ![Stars](https://img.shields.io/github/stars/editor-code-assistant/eca.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/editor-code-assistant/eca.svg)](/LICENSE)
@@ -457,7 +457,7 @@
 
 ### Dart
 
-* **[Flame engine](https://github.com/flame-engine/flame) ⭐ 10,758 | 🐛 84 | 🌐 Dart | 📅 2026-09-18** by [luanpotter](https://github.com/luanpotter)\
+* **[Flame engine](https://github.com/flame-engine/flame) ⭐ 10,759 | 🐛 85 | 🌐 Dart | 📅 2026-09-18** by [luanpotter](https://github.com/luanpotter)\
   Game engine 2d pra Flutter\
   ![Stars](https://img.shields.io/github/stars/flame-engine/flame.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/flame-engine/flame.svg)](/LICENSE)
@@ -495,7 +495,7 @@
 
 ### Elixir
 
-* **[Elixir Programming Language](https://github.com/elixir-lang/elixir) ⭐ 26,657 | 🐛 35 | 🌐 Elixir | 📅 2026-09-18** by [josevalim](https://github.com/josevalim)\
+* **[Elixir Programming Language](https://github.com/elixir-lang/elixir) ⭐ 26,661 | 🐛 35 | 🌐 Elixir | 📅 2026-09-19** by [josevalim](https://github.com/josevalim)\
   Elixir language, created by a Brazilian, José Valim\
   ![Stars](https://img.shields.io/github/stars/elixir-lang/elixir?style=flat-square)
   [![license](https://img.shields.io/github/license/elixir-lang/elixir.svg)](/LICENSE)
@@ -509,12 +509,12 @@
 
 ### Go
 
-* **[Task](https://github.com/go-task/task) ⭐ 16,164 | 🐛 192 | 🌐 Go | 📅 2026-09-18** by [andreynering](https://github.com/andreynering)\
+* **[Task](https://github.com/go-task/task) ⭐ 16,166 | 🐛 190 | 🌐 Go | 📅 2026-09-19** by [andreynering](https://github.com/andreynering)\
   Task is a task runner / build tool, alternative to Make\
   ![Stars](https://img.shields.io/github/stars/go-task/task.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/go-task/task.svg)](/LICENSE)
 
-* **[goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,056 | 🐛 17 | 🌐 Go | 📅 2026-09-18** by [caarlos0](https://github.com/caarlos0)\
+* **[goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,058 | 🐛 18 | 🌐 Go | 📅 2026-09-19** by [caarlos0](https://github.com/caarlos0)\
   Deliver Go binaries as fast and easily as possible\
   ![Stars](https://img.shields.io/github/stars/goreleaser/goreleaser.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/goreleaser/goreleaser.svg)](/LICENSE)
@@ -524,12 +524,12 @@
   ![Stars](https://img.shields.io/github/stars/filhodanuvem/gitql.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/filhodanuvem/gitql.svg)](/LICENSE)
 
-* **[tsuru](https://github.com/tsuru/tsuru) ⭐ 5,310 | 🐛 20 | 🌐 Go | 📅 2026-09-17** by [tsuru](https://github.com/tsuru)\
+* **[tsuru](https://github.com/tsuru/tsuru) ⭐ 5,311 | 🐛 20 | 🌐 Go | 📅 2026-09-17** by [tsuru](https://github.com/tsuru)\
   Open source, extensible and Docker-based Platform as a Service (PaaS)\
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
   [![license](https://img.shields.io/github/license/tsuru/tsuru.svg)](/LICENSE)
 
-* **[pREST](https://github.com/prest/prest) ⭐ 4,618 | 🐛 153 | 🌐 Go | 📅 2026-09-18** by [Avelino](https://github.com/avelino)\
+* **[pREST](https://github.com/prest/prest) ⭐ 4,619 | 🐛 153 | 🌐 Go | 📅 2026-09-18** by [Avelino](https://github.com/avelino)\
   (PostgreSQL REST), simplify and accelerate development, instant, realtime high-performance on any Postgres application, existing or new\
   ![Stars](https://img.shields.io/github/stars/prest/prest.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/prest/prest.svg)](/LICENSE)
@@ -544,7 +544,7 @@
   ![Stars](https://img.shields.io/github/stars/fsouza/go-dockerclient?style=flat-square)
   [![license](https://img.shields.io/github/license/fsouza/go-dockerclient.svg)](/LICENSE)
 
-* **[ShellHub](https://github.com/shellhub-io/shellhub) ⭐ 2,068 | 🐛 34 | 🌐 TypeScript | 📅 2026-09-18** by [gustavosbarreto](https://github.com/gustavosbarreto)\
+* **[ShellHub](https://github.com/shellhub-io/shellhub) ⭐ 2,068 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-19** by [gustavosbarreto](https://github.com/gustavosbarreto)\
   ShellHub enables teams to easily access any Linux device behind firewall and NAT\
   ![Stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/shellhub-io/shellhub.svg)](/LICENSE)
@@ -569,7 +569,7 @@
   ![Stars](https://img.shields.io/github/stars/luizalabs/teresa?style=flat-square)
   [![license](https://img.shields.io/github/license/luizalabs/teresa.svg)](/LICENSE)
 
-* **[Learn Go with tests](https://github.com/larien/learn-go-with-tests) ⭐ 507 | 🐛 42 | 🌐 Go | 📅 2026-08-24** by [Lauren Ferreira](https://github.com/larien)\
+* **[Learn Go with tests](https://github.com/larien/learn-go-with-tests) ⭐ 508 | 🐛 42 | 🌐 Go | 📅 2026-08-24** by [Lauren Ferreira](https://github.com/larien)\
   Learn Go with test-driven development\
   ![Stars](https://img.shields.io/github/stars/larien/learn-go-with-tests.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/larien/learn-go-with-tests.svg)](/LICENSE)
@@ -601,17 +601,17 @@
 
 ### JavaScript
 
-* **[33-js-concepts](https://github.com/leonardomso/33-js-concepts) ⭐ 66,525 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-10** by [leonardomso](https://github.com/leonardomso)\
+* **[33-js-concepts](https://github.com/leonardomso/33-js-concepts) ⭐ 66,527 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-10** by [leonardomso](https://github.com/leonardomso)\
   33 concepts every JavaScript developer should know\
   ![Stars](https://img.shields.io/github/stars/leonardomso/33-js-concepts?style=flat-square)
   [![license](https://img.shields.io/github/license/leonardomso/33-js-concepts.svg)](/LICENSE)
 
-* **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,143 | 🐛 4,075 | 🌐 TypeScript | 📅 2026-09-18** by [RocketChat](https://github.com/RocketChat)\
+* **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,147 | 🐛 4,083 | 🌐 TypeScript | 📅 2026-09-19** by [RocketChat](https://github.com/RocketChat)\
   The ultimate Free Open Source Solution for team communications\
   ![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat-square)
   [![license](https://img.shields.io/github/license/RocketChat/Rocket.Chat.svg)](/LICENSE)
 
-* **[clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐ 34,115 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12** by [zenorocha](https://github.com/zenorocha)\
+* **[clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐ 34,114 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12** by [zenorocha](https://github.com/zenorocha)\
   Modern copy to clipboard. No Flash. Just 3kb gzipped\
   ![Stars](https://img.shields.io/github/stars/zenorocha/clipboard.js.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/zenorocha/clipboard.js.svg)](/LICENSE)
@@ -626,7 +626,7 @@
   ![Stars](https://img.shields.io/github/stars/clappr/clappr?style=flat-square)
   [![license](https://img.shields.io/github/license/clappr/clappr.svg)](/LICENSE)
 
-* **[javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) ⭐ 4,873 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-15** by [loiane](https://github.com/loiane)\
+* **[javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms) ⭐ 4,873 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19** by [loiane](https://github.com/loiane)\
   collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book\
   ![Stars](https://img.shields.io/github/stars/loiane/javascript-datastructures-algorithms?style=flat-square)
   [![license](https://img.shields.io/github/license/loiane/javascript-datastructures-algorithms.svg)](/LICENSE)
@@ -636,12 +636,12 @@
   ![Stars](https://img.shields.io/github/stars/Rocketseat/unform?style=flat-square)
   [![license](https://img.shields.io/github/license/Rocketseat/unform.svg)](/LICENSE)
 
-* **[React95](https://github.com/React95/React95) ⭐ 3,822 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-02** by [ggdaltoso](https://github.com/ggdaltoso)\
+* **[React95](https://github.com/React95/React95) ⭐ 3,823 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-02** by [ggdaltoso](https://github.com/ggdaltoso)\
   A React components library with Win95 UI\
   ![Stars](https://img.shields.io/github/stars/React95/React95?style=flat-square)
   [![license](https://img.shields.io/github/license/React95/React95.svg)](/LICENSE)
 
-* **[zuck.js](https://github.com/ramon82/zuck.js) ⭐ 3,726 | 🐛 18 | 🌐 TypeScript | 📅 2025-04-16** by [ramon82](https://github.com/ramon82)\
+* **[zuck.js](https://github.com/ramon82/zuck.js) ⭐ 3,727 | 🐛 18 | 🌐 TypeScript | 📅 2025-04-16** by [ramon82](https://github.com/ramon82)\
   A javascript library that lets you add stories EVERYWHERE\
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
   [![license](https://img.shields.io/github/license/ramon82/zuck.js.svg)](/LICENSE)
@@ -671,7 +671,7 @@
   ![Stars](https://img.shields.io/github/stars/sveltejs/svelte-preprocess?style=flat-square)
   [![license](https://img.shields.io/github/license/sveltejs/svelte-preprocess.svg)](/LICENSE)
 
-* **[brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) ⭐ 1,671 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-18** by [hyanmandian](https://github.com/hyanmandian)\
+* **[brazilian-utils](https://github.com/brazilian-utils/brazilian-utils) ⭐ 1,672 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-19** by [hyanmandian](https://github.com/hyanmandian)\
   Utils library for Brazilian-specific businesses\
   ![Stars](https://img.shields.io/github/stars/brazilian-utils/brazilian-utils?style=flat-square)
   [![license](https://img.shields.io/github/license/brazilian-utils/brazilian-utils.svg)](/LICENSE)
@@ -701,7 +701,7 @@
   ![Stars](https://img.shields.io/github/stars/fdaciuk/ajax.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/fdaciuk/ajax.svg)](/LICENSE)
 
-* **[Algorithms & Data Structures](https://github.com/imteekay/algorithms) ⭐ 578 | 🐛 0 | 🌐 C++ | 📅 2025-01-17** by [TK](https://github.com/imteekay)\
+* **[Algorithms & Data Structures](https://github.com/imteekay/algorithms) ⭐ 579 | 🐛 0 | 🌐 C++ | 📅 2025-01-17** by [TK](https://github.com/imteekay)\
   Algorithms & Data Structures studies
   ![Stars](https://img.shields.io/github/stars/imteekay/algorithms.svg?style=flat-square)
   [![license](https://img.shields.io/github/license/imteekay/algorithms.svg)](/LICENSE)
@@ -790,12 +790,12 @@
 
 ### Lua
 
-* **[Lua Programming language](https://github.com/lua/lua) ⭐ 10,316 | 🐛 0 | 🌐 C | 📅 2026-09-17** by [roberto-ieru](https://github.com/roberto-ieru)\
+* **[Lua Programming language](https://github.com/lua/lua) ⭐ 10,320 | 🐛 0 | 🌐 C | 📅 2026-09-17** by [roberto-ieru](https://github.com/roberto-ieru)\
   Lua language, created by a Brazilian, Roberto Ierusalimschy\
   ![Stars](https://img.shields.io/github/stars/lua/lua?style=flat-square)
   [![license](https://img.shields.io/github/license/lua/lua.svg)](/LICENSE)
 
-* **[luarocks](https://github.com/luarocks/luarocks) ⭐ 3,734 | 🐛 243 | 🌐 Lua | 📅 2026-09-02** by [hishamhm](https://github.com/hishamhm)\
+* **[luarocks](https://github.com/luarocks/luarocks) ⭐ 3,732 | 🐛 242 | 🌐 Lua | 📅 2026-09-02** by [hishamhm](https://github.com/hishamhm)\
   LuaRocks is the package manager for the Lua programming language\
   ![Stars](https://img.shields.io/github/stars/luarocks/luarocks?style=flat-square)\
   [![license](https://img.shields.io/github/license/luarocks/luarocks.svg)](/LICENSE)
@@ -809,7 +809,7 @@
 
 ### PHP
 
-* **[Validation](https://github.com/Respect/Validation) ⭐ 6,032 | 🐛 11 | 🌐 PHP | 📅 2026-09-18** by [henriquemoody](https://github.com/henriquemoody)\
+* **[Validation](https://github.com/Respect/Validation) ⭐ 6,032 | 🐛 11 | 🌐 PHP | 📅 2026-09-19** by [henriquemoody](https://github.com/henriquemoody)\
   The most awesome validation engine ever created for PHP\
   ![Stars](https://img.shields.io/github/stars/Respect/Validation?style=flat-square)
   [![license](https://img.shields.io/github/license/Respect/Validation.svg)](/LICENSE)
@@ -833,12 +833,12 @@
 
 ### Python
 
-* **[Dynaconf](https://github.com/dynaconf/dynaconf) ⭐ 4,332 | 🐛 171 | 🌐 Python | 📅 2026-09-01** by [rochacbruno](https://github.com/rochacbruno/)\
+* **[Dynaconf](https://github.com/dynaconf/dynaconf) ⭐ 4,331 | 🐛 171 | 🌐 Python | 📅 2026-09-01** by [rochacbruno](https://github.com/rochacbruno/)\
   Configuration Management for Python\
   ![Stars](https://img.shields.io/github/stars/dynaconf/dynaconf?style=flat-square)
   [![license](https://img.shields.io/github/license/dynaconf/dynaconf.svg)](/LICENSE)
 
-* **[keyboard](https://github.com/boppreh/keyboard) ⭐ 3,967 | 🐛 414 | 🌐 Python | 📅 2026-07-10** by [BoppreH](https://github.com/boppreh)\
+* **[keyboard](https://github.com/boppreh/keyboard) ⭐ 3,969 | 🐛 414 | 🌐 Python | 📅 2026-07-10** by [BoppreH](https://github.com/boppreh)\
   Hook and simulate global keyboard events on Windows and Linux.\
   ![Stars](https://img.shields.io/github/stars/boppreh/keyboard?style=flat-square)
   [![license](https://img.shields.io/github/license/boppreh/keyboard.svg)](/LICENSE)
@@ -853,7 +853,7 @@
   ![Stars](https://img.shields.io/github/stars/cobrateam/splinter?style=flat-square)
   [![license](https://img.shields.io/github/license/cobrateam/splinter.svg)](/LICENSE)
 
-* **[dateutil](https://github.com/dateutil/dateutil) ⭐ 2,634 | 🐛 491 | 🌐 Python | 📅 2026-05-19** by [niemeyer](https://github.com/niemeyer)\
+* **[dateutil](https://github.com/dateutil/dateutil) ⭐ 2,634 | 🐛 492 | 🌐 Python | 📅 2026-05-19** by [niemeyer](https://github.com/niemeyer)\
   Useful extensions to the standard Python datetime features\
   ![Stars](https://img.shields.io/github/stars/dateutil/dateutil?style=flat-square)
   [![license](https://img.shields.io/github/license/dateutil/dateutil.svg)](/LICENSE)
@@ -868,7 +868,7 @@
   ![Stars](https://img.shields.io/github/stars/gabrielfalcao/HTTPretty?style=flat-square)
   [![license](https://img.shields.io/github/license/gabrielfalcao/HTTPretty.svg)](/LICENSE)
 
-* **[scanapi](https://github.com/scanapi/scanapi) ⭐ 1,582 | 🐛 45 | 🌐 Python | 📅 2026-09-17** by [ScanAPI](https://github.com/scanapi)\
+* **[scanapi](https://github.com/scanapi/scanapi) ⭐ 1,582 | 🐛 46 | 🌐 Python | 📅 2026-09-18** by [ScanAPI](https://github.com/scanapi)\
   Automated Integration Testing and Live Documentation for your API\
   ![Stars](https://img.shields.io/github/stars/scanapi/scanapi?style=flat-square)
   [![license](https://img.shields.io/github/license/scanapi/scanapi.svg)](/LICENSE)
@@ -883,7 +883,7 @@
   ![Stars](https://img.shields.io/github/stars/bernardopires/django-tenant-schemas?style=flat-square)
   [![license](https://img.shields.io/github/license/bernardopires/django-tenant-schemas.svg)](/LICENSE)
 
-* **[querido-diario](https://github.com/okfn-brasil/querido-diario) ⭐ 1,388 | 🐛 257 | 🌐 Python | 📅 2026-09-12** by [okfn-brasil](https://github.com/okfn-brasil)\
+* **[querido-diario](https://github.com/okfn-brasil/querido-diario) ⭐ 1,388 | 🐛 322 | 🌐 Python | 📅 2026-09-12** by [okfn-brasil](https://github.com/okfn-brasil)\
   Brazilian government gazettes, accessible to everyone.\
   ![Stars](https://img.shields.io/github/stars/okfn-brasil/querido-diario?style=flat-square)
   [![license](https://img.shields.io/github/license/okfn-brasil/querido-diario.svg)](/LICENSE)
@@ -952,7 +952,7 @@
 
 ### Quint
 
-* **[Quint](https://github.com/informalsystems/quint) ⭐ 1,682 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-20** by [bugarela](https://github.com/bugarela)\
+* **[Quint](https://github.com/informalsystems/quint) ⭐ 1,683 | 🐛 253 | 🌐 TypeScript | 📅 2026-08-20** by [bugarela](https://github.com/bugarela)\
   A modern and executable specification language\
   ![Stars](https://img.shields.io/github/stars/informalsystems/quint?style=flat-square)
   [![license](https://img.shields.io/github/license/informalsystems/quint.svg)](/LICENSE)
@@ -961,7 +961,7 @@
 
 ### Ruby
 
-* **[Rails gem devise](https://github.com/heartcombo/devise) ⭐ 24,357 | 🐛 235 | 🌐 Ruby | 📅 2026-06-22** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva).\
+* **[Rails gem devise](https://github.com/heartcombo/devise) ⭐ 24,358 | 🐛 235 | 🌐 Ruby | 📅 2026-06-22** by [josevalim](https://github.com/josevalim), [carlosantoniodasilva](https://github.com/carlosantoniodasilva).\
   Rails gem devise for user authentication\
   ![Stars](https://img.shields.io/github/stars/heartcombo/devise?style=flat-square)
   [![license](https://img.shields.io/github/license/heartcombo/devise.svg)](/LICENSE)
@@ -985,17 +985,17 @@
 
 ### Rust
 
-* **[Bend](https://github.com/HigherOrderCO/Bend) ⭐ 21,380 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-18** by [HigherOrderCO](https://github.com/HigherOrderCO)\
+* **[Bend](https://github.com/HigherOrderCO/Bend) ⭐ 21,750 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-19** by [HigherOrderCO](https://github.com/HigherOrderCO)\
   A massively parallel, high-level programming language\
   ![Stars](https://img.shields.io/github/stars/HigherOrderCO/Bend?style=flat-square)
   [![license](https://img.shields.io/github/license/HigherOrderCO/Bend.svg)](/LICENSE)
 
-* **[HVM](https://github.com/HigherOrderCO/HVM) ⭐ 11,342 | 🐛 0 | 🌐 Cuda | 📅 2026-09-16** by [HigherOrderCO](https://github.com/HigherOrderCO)\
+* **[HVM](https://github.com/HigherOrderCO/HVM) ⭐ 11,341 | 🐛 0 | 🌐 Cuda | 📅 2026-09-16** by [HigherOrderCO](https://github.com/HigherOrderCO)\
   A massively parallel, optimal functional runtime in Rust\
   ![Stars](https://img.shields.io/github/stars/HigherOrderCO/HVM?style=flat-square)
   [![license](https://img.shields.io/github/license/HigherOrderCO/HVM.svg)](/LICENSE)
 
-* **[Rio](https://github.com/raphamorim/rio) ⭐ 7,511 | 🐛 303 | 🌐 Rust | 📅 2026-09-17** by [raphamorim](https://github.com/raphamorim)\
+* **[Rio](https://github.com/raphamorim/rio) ⭐ 7,520 | 🐛 306 | 🌐 Rust | 📅 2026-09-17** by [raphamorim](https://github.com/raphamorim)\
   A hardware-accelerated GPU terminal emulator that runs in desktops and browsers\
   ![Stars](https://img.shields.io/github/stars/raphamorim/rio?style=flat-square)
   [![license](https://img.shields.io/github/license/raphamorim/rio.svg)](/LICENSE)
@@ -1005,7 +1005,7 @@
   ![Stars](https://img.shields.io/github/stars/rochacbruno/py2rs?style=flat-square)
   [![license](https://img.shields.io/github/license/rochacbruno/py2rs.svg)](/LICENSE)
 
-* **[KFtray](https://github.com/hcavarsan/kftray) ⭐ 1,564 | 🐛 2 | 🌐 Rust | 📅 2026-09-18** by [hcavarsan](https://github.com/hcavarsan)\
+* **[KFtray](https://github.com/hcavarsan/kftray) ⭐ 1,564 | 🐛 2 | 🌐 Rust | 📅 2026-09-19** by [hcavarsan](https://github.com/hcavarsan)\
   A cross-platform app for managing Kubernetes port forward configurations in the menu bar.
   ![Stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat-square)
   [![license](https://img.shields.io/github/license/hcavarsan/kftray.svg)](/LICENSE)
@@ -1033,17 +1033,17 @@
 
 ### Typescript
 
-* **[ariakit](https://github.com/ariakit/ariakit) ⭐ 8,620 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-18** by [diegohaz](https://github.com/diegohaz)\
+* **[ariakit](https://github.com/ariakit/ariakit) ⭐ 8,622 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-19** by [diegohaz](https://github.com/diegohaz)\
   Toolkit for building accessible web apps with React\
   ![Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=flat-square)
-  [![license](https://img.shields.io/github/license/ariakit/ariakit.svg)](https://github.com/ariakit/ariakit/blob/main/license) ⭐ 8,620 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-18
+  [![license](https://img.shields.io/github/license/ariakit/ariakit.svg)](https://github.com/ariakit/ariakit/blob/main/license) ⭐ 8,622 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-19
 
-* **[concurrently](https://github.com/open-cli-tools/concurrently) ⭐ 7,849 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-15** by [gustavohenke](https://github.com/gustavohenke)\
+* **[concurrently](https://github.com/open-cli-tools/concurrently) ⭐ 7,851 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-15** by [gustavohenke](https://github.com/gustavohenke)\
   Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.\
   ![Stars](https://img.shields.io/github/stars/open-cli-tools/concurrently?style=flat-square)
-  [![license](https://img.shields.io/github/license/open-cli-tools/concurrently.svg)](https://github.com/open-cli-tools/concurrently/blob/master/LICENSE) ⭐ 7,849 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-15
+  [![license](https://img.shields.io/github/license/open-cli-tools/concurrently.svg)](https://github.com/open-cli-tools/concurrently/blob/master/LICENSE) ⭐ 7,851 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-15
 
-* **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) ⭐ 2,674 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-09** by [alefragnani](https://github.com/alefragnani)\
+* **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) ⭐ 2,675 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-09** by [alefragnani](https://github.com/alefragnani)\
   Project Manager Extension for Visual Studio Code\
   ![Stars](https://img.shields.io/github/stars/alefragnani/vscode-project-manager?style=flat-square)
   [![license](https://img.shields.io/github/license/alefragnani/vscode-project-manager.svg)](/LICENSE)
@@ -1053,26 +1053,26 @@
   ![Stars](https://img.shields.io/github/stars/expressots/expressots?style=flat-square)
   [![license](https://img.shields.io/github/license/expressots/expressots.svg)](https://github.com/expressots/expressots/blob/main/LICENSE.md) ⭐ 1,849 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-14
 
-* **[Zard/ui](https://github.com/zard-ui/zardui) ⭐ 1,155 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-05** by [luizgomess](https://github.com/Luizgomess)\
+* **[Zard/ui](https://github.com/zard-ui/zardui) ⭐ 1,156 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-05** by [luizgomess](https://github.com/Luizgomess)\
   The alternative shadcn/ui for angular\
   ![Stars](https://img.shields.io/github/stars/zard-ui/zardui?style=flat-square)
-  [![license](https://img.shields.io/github/license/zard-ui/zardui.svg)](https://github.com/zard-ui/zardui/blob/main/LICENSE.md) ⭐ 1,155 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-05
+  [![license](https://img.shields.io/github/license/zard-ui/zardui.svg)](https://github.com/zard-ui/zardui/blob/main/LICENSE.md) ⭐ 1,156 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-05
 
-* **[whatsapp-bot](https://github.com/caioagiani/whatsapp-bot) ⭐ 341 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-18** by [caioagiani](https://github.com/caioagiani)\
+* **[whatsapp-bot](https://github.com/caioagiani/whatsapp-bot) ⭐ 342 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-18** by [caioagiani](https://github.com/caioagiani)\
   BOT - WhatsApp Web in TypeScript\
   ![Stars](https://img.shields.io/github/stars/caioagiani/whatsapp-bot?style=flat-square)
   [![license](https://img.shields.io/github/license/caioagiani/whatsapp-bot.svg)](/LICENSE)
 
-* **[Shark UI](https://github.com/sharkui-inc/shark-ui) ⭐ 187 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18** by [vinihvc](https://github.com/vinihvc)\
+* **[Shark UI](https://github.com/sharkui-inc/shark-ui) ⭐ 187 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19** by [vinihvc](https://github.com/vinihvc)\
   Beautifully designed shadcn-style components built on Ark UI\
   ![Stars](https://img.shields.io/github/stars/sharkui-inc/shark-ui?style=flat-square)\
-  [![license](https://img.shields.io/github/license/sharkui-inc/shark-ui.svg)](https://github.com/sharkui-inc/shark-ui/blob/main/LICENSE.md) ⭐ 187 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-18
+  [![license](https://img.shields.io/github/license/sharkui-inc/shark-ui.svg)](https://github.com/sharkui-inc/shark-ui/blob/main/LICENSE.md) ⭐ 187 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19
 
 <a name="vim"></a>
 
 ### vim
 
-* **[Neovim](https://github.com/neovim/neovim) ⭐ 102,411 | 🐛 1,915 | 🌐 Vim Script | 📅 2026-09-18** by [tarruda](https://github.com/tarruda)\
+* **[Neovim](https://github.com/neovim/neovim) ⭐ 102,433 | 🐛 1,916 | 🌐 Vim Script | 📅 2026-09-19** by [tarruda](https://github.com/tarruda)\
   Neovim is the most popular vim fork and refactor that simplifies maintenance, enable advanced UIs and maximize extensibility\
   ![Stars](https://img.shields.io/github/stars/neovim/neovim.svg?style=flat-square)\
   [![license](https://img.shields.io/github/license/neovim/neovim.svg)](/LICENSE)
@@ -1108,4 +1108,4 @@ If you want to add a project to this list, please make sure that:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
